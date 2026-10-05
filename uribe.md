@@ -1,58 +1,58 @@
-# Juan Felipe Uribe — entrevista de Palisade
+# Juan Felipe Uribe — Palisade interview
 
-- **Archivo recibido:** [uribe.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/uribe.txt)
-- **Cobertura del texto:** 0:00–33:17 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
-- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/uribe.md).
+- **Source file received:** `uribe.txt` (not included in this repository).
+- **Text coverage:** 0:00–33:17 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
+- **Text only:** [version without timestamps, contents, or notes](text-only/uribe.md).
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:33 · Trayectoria y declaración personal](#t-0-33)
-- [1:00 · Carrera de desarrollo e incertidumbre](#t-1-00)
-- [2:14 · Evaluaciones y presión por avanzar](#t-2-14)
-- [4:18 · Riesgo de extinción](#t-4-18)
-- [5:24 · Uso malicioso y pérdida de control](#t-5-24)
-- [6:50 · Trabajo sobre riesgo biológico y mitigaciones](#t-6-50)
+- [0:00 · Opening](#t-0-00)
+- [0:33 · Background and personal statement](#t-0-33)
+- [1:00 · The development race and uncertainty](#t-1-00)
+- [2:14 · Evaluations and pressure to advance](#t-2-14)
+- [4:18 · Extinction risk](#t-4-18)
+- [5:24 · Misuse and loss of control](#t-5-24)
+- [6:50 · Work on biological risk and mitigations](#t-6-50)
 - [9:20 · Pacing the frontier](#t-9-20)
-- [9:55 · Desacuerdos internos y condiciones para detener el desarrollo](#t-9-55)
-- [12:43 · Competencia con China y coordinación](#t-12-43)
-- [14:46 · Conversaciones dentro de OpenAI](#t-14-46)
-- [16:59 · Motivos para seguir en OpenAI](#t-16-59)
-- [18:59 · Mejora recursiva y cuellos de botella](#t-18-59)
-- [21:15 · Viabilidad de automatizar la investigación](#t-21-15)
-- [22:18 · Preparación social y defensas](#t-22-18)
-- [26:15 · Perspectiva personal](#t-26-15)
-- [28:33 · Mensaje a responsables de políticas](#t-28-33)
-- [29:13 · Beneficios posibles](#t-29-13)
-- [31:58 · Familia y mensaje personal](#t-31-58)
-- [32:59 · Cierre de Palisade](#t-32-59)
+- [9:55 · Internal disagreements and conditions for stopping development](#t-9-55)
+- [12:43 · Competition with China and coordination](#t-12-43)
+- [14:46 · Conversations within OpenAI](#t-14-46)
+- [16:59 · Reasons to stay at OpenAI](#t-16-59)
+- [18:59 · Recursive improvement and bottlenecks](#t-18-59)
+- [21:15 · Feasibility of automating research](#t-21-15)
+- [22:18 · Societal preparedness and defenses](#t-22-18)
+- [26:15 · Personal perspective](#t-26-15)
+- [28:33 · Message to policymakers](#t-28-33)
+- [29:13 · Potential benefits](#t-29-13)
+- [31:58 · Family and personal message](#t-31-58)
+- [32:59 · Palisade closing remarks](#t-32-59)
 
-## Pasajes para revisar antes de citar
+## Passages to review before quoting
 
-| Tiempo | Texto o tema | Revisión pendiente |
+| Time | Text or topic | Review needed |
 | --- | --- | --- |
-| 7:05 | “Chajiv's propensities” | Posible nombre mal transcrito; cotejar con el audio antes de citar. |
-| 32:03 | “Bgotaa, Colombia” | Grafía recibida del lugar de nacimiento; cotejar antes de citar. |
+| 7:05 | “Chajiv's propensities” | Possibly mistranscribed name; check against the audio before quoting. |
+| 32:03 | “Bgotaa, Colombia” | Birthplace spelling as received; check before quoting. |
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** You know, imagine if like next week somebody had created an engineered pandemic. We're just not that prepared because the in the world that we live in, that kind of thing is just not possible yet. Say like, well, if we do the next thing, that's going to be like really dangerous. So, you know what?
 
 **[0:19]** Let's let's let's see let's see what it is and like flip a coin and see and see if we're all going to die or or we're going to create a lot of shareholder value.
 
 <a id="t-0-33"></a>
-## 0:33 · Trayectoria y declaración personal
+## 0:33 · Background and personal statement
 
 **[0:33]** Hi, I'm Juan Felipe Uribe. I have been working at OpenAI as a research engineer since 2022. I started working on what became ChatGPT and I currently work on on um avoiding the risk of ChatGPT helping people make bioweapons. And uh I'm speaking here in my personal capacity and uh what I say doesn't represent OpenAI's views.
 
 <a id="t-1-00"></a>
-## 1:00 · Carrera de desarrollo e incertidumbre
+## 1:00 · The development race and uncertainty
 
 **[1:00]** What do you think is most important for the public to understand about AI?
 
@@ -63,7 +63,7 @@
 **[2:12]** We don't really know what's going to happen.
 
 <a id="t-2-14"></a>
-## 2:14 · Evaluaciones y presión por avanzar
+## 2:14 · Evaluations and pressure to advance
 
 **[2:14]** Can you elaborate a little bit on what you mean by blindfolded?
 
@@ -80,7 +80,7 @@
 **[4:11]** So it is in a way social pressure. It's just not like peer-to-peer.
 
 <a id="t-4-18"></a>
-## 4:18 · Riesgo de extinción
+## 4:18 · Extinction risk
 
 **[4:18]** Some people think that there's a risk of everyone dying from AI development. Do you think that there's a risk of human extinction?
 
@@ -93,7 +93,7 @@
 **[5:20]** So right now it does seem possible.
 
 <a id="t-5-24"></a>
-## 5:24 · Uso malicioso y pérdida de control
+## 5:24 · Misuse and loss of control
 
 **[5:24]** Are you mostly worried about bad actors using AI capabilities or mostly worried about the AI themselves taking over or some mix or how does what what kinds of things are you worried about?
 
@@ -106,7 +106,7 @@
 **[6:37]** I think more about this really dangerous in uh um intelligence is going to exist. We got to make sure that nobody is able to wield it uh negatively
 
 <a id="t-6-50"></a>
-## 6:50 · Trabajo sobre riesgo biológico y mitigaciones
+## 6:50 · Work on biological risk and mitigations
 
 **[6:50]** and that's your job. Uh can can you say a bit about what you do to try and and prevent those outcomes?
 
@@ -134,7 +134,7 @@
 **[9:31]** So pacing the frontier for me means you slow the development of advanced AI until you're confident that when you take that next step in development uh you're not going to cause a catastrophe. And I think that's a great idea that I think we should most definitely uh be looking into into that.
 
 <a id="t-9-55"></a>
-## 9:55 · Desacuerdos internos y condiciones para detener el desarrollo
+## 9:55 · Internal disagreements and conditions for stopping development
 
 **[9:55]** Do other people at OpenAI agree with you?
 
@@ -155,7 +155,7 @@
 **[12:35]** Let's let's let's see let's see what it is and like flip a coin and see and see if we're all going to die or or we're going to create a lot of shareholder value.
 
 <a id="t-12-43"></a>
-## 12:43 · Competencia con China y coordinación
+## 12:43 · Competition with China and coordination
 
 **[12:43]** So, many people are skeptical of this kind of pacing because they're afraid that this means that the US and Western democracies will seed the AI race to China. Is that a realistic concern?
 
@@ -172,7 +172,7 @@
 **[14:35]** I think governments are sounds like the right place to do that. I don't see any other entity that's in like a reasonable place to to try to bring some pacing about.
 
 <a id="t-14-46"></a>
-## 14:46 · Conversaciones dentro de OpenAI
+## 14:46 · Conversations within OpenAI
 
 **[14:46]** Do you discuss these risks with your co-workers?
 
@@ -185,7 +185,7 @@
 **[16:40]** So um but I have no idea what to do about it. perhaps just just talking myself to other people about uh about existential risks. Maybe I should do that. Um
 
 <a id="t-16-59"></a>
-## 16:59 · Motivos para seguir en OpenAI
+## 16:59 · Reasons to stay at OpenAI
 
 **[16:59]** sometimes people ask if the people at these companies are so worried about the risks here, why don't they just quit?
 
@@ -198,7 +198,7 @@
 **[18:32]** Um but then on some occasions I I like disagree with the with the prioritization that that uh that um that my broader team has. I think there might be a level of that which is healthy. I I still think I have a place there. I I I I couldn't tell you that that I know for sure that that will continue to be the case next year, for example.
 
 <a id="t-18-59"></a>
-## 18:59 · Mejora recursiva y cuellos de botella
+## 18:59 · Recursive improvement and bottlenecks
 
 **[18:59]** But what is recursive self-improvement?
 
@@ -211,7 +211,7 @@
 **[20:51]** It all depends on if it goes fast or slow. But but again, uh I I think you just got to make sure that you that society has time to adapt. Uh you can't just or well I I don't think we should just like find out the hard way if if uh if progress was too fast.
 
 <a id="t-21-15"></a>
-## 21:15 · Viabilidad de automatizar la investigación
+## 21:15 · Feasibility of automating research
 
 **[21:15]** Does recursive self-improvement seem like a real possibility to you?
 
@@ -220,7 +220,7 @@
 **[22:04]** I may be wrong about that but the thing is it is possible. Uh we can't rule it out and we really shouldn't find out by pushing recklessly.
 
 <a id="t-22-18"></a>
-## 22:18 · Preparación social y defensas
+## 22:18 · Societal preparedness and defenses
 
 **[22:18]** So, so you've talked about pacing the frontier. Are there other things that the world needs to do to be equipped to handle these risks?
 
@@ -241,7 +241,7 @@
 **[25:39]** Uh those systems exist today but uh they were created for a world in which uh in a world without very advanced uh u biocapable models. We need to upgrade this suppliers ability to keep tabs on on what people are doing. Um, we could also invest more in general pandemic preparedness. Uh, yeah, that's for bio
 
 <a id="t-26-15"></a>
-## 26:15 · Perspectiva personal
+## 26:15 · Personal perspective
 
 **[26:15]** when you think about the future. How do you feel?
 
@@ -256,14 +256,14 @@
 **[28:22]** Um yeah, I hope I hope it's enough. We're we're trying.
 
 <a id="t-28-33"></a>
-## 28:33 · Mensaje a responsables de políticas
+## 28:33 · Message to policymakers
 
 **[28:33]** There are currently policy makers who are right now introducing and discussing legislation for AI. Uh if you were in the room with those policy makers, is there anything you would want to tell them?
 
 **[28:48]** What I would tell policy makers is that first and foremost, we have to make sure that AI doesn't cause a lot of harm even if we stand to to have a to have a lot of gain. Uh cuz cuz that's just a game that we don't want to play. If if uh if heads is cure cancer and tails is we all die, we shouldn't be tossing that coin.
 
 <a id="t-29-13"></a>
-## 29:13 · Beneficios posibles
+## 29:13 · Potential benefits
 
 **[29:13]** Yeah. Do you want to talk more about the potential benefits?
 
@@ -278,7 +278,7 @@
 **[31:24]** So I think I think positive AI outcomes strongly depend on uh on on making policy that makes sure that the benefits are widespread. If not, by default, it's going to land in the hands of the few. So, I'm not an expert on on how on like distributive economics or anything. Sounds like a pretty great start to just give people money. Um, I could get behind that.
 
 <a id="t-31-58"></a>
-## 31:58 · Familia y mensaje personal
+## 31:58 · Family and personal message
 
 **[31:58]** Um, all right, one more question. Uh, where did you grow up?
 
@@ -287,18 +287,18 @@
 **[32:31]** I think [music] I'd rather my family not worry too much about [music] AI because I don't I don't think that I have very comforting words for [music] them. So, I'd rather they just not find out that much and continue to live uh very happy lives, not worry that that uh about existential risks.
 
 <a id="t-32-59"></a>
-## 32:59 · Cierre de Palisade
+## 32:59 · Palisade closing remarks
 
 **[32:59]** Thank you for watching. These videos are part of a series. My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch. We would love to include your perspective.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+The interview content was not translated, summarized, or substantively corrected. Name normalizations are explicitly documented; other possible subtitle errors are retained pending comparison with the audio. Claims remain attributed to the interviewee and were not verified in this edition.
 
-- Nombre normalizado: `Chad Gubt` → `ChatGPT` (1 aparición/es).
-- Nombre normalizado: `Chad GBT` → `ChatGPT` (1 aparición/es).
-- Nombre normalizado: `Eli Tyer` → `Eli Tyre` (1 aparición/es).
+- Normalized name: `Chad Gubt` → `ChatGPT` (1 occurrence(s)).
+- Normalized name: `Chad GBT` → `ChatGPT` (1 occurrence(s)).
+- Normalized name: `Eli Tyer` → `Eli Tyre` (1 occurrence(s)).
 
-Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
+Each timestamp points to the subtitle where the paragraph or section begins; it may overlap with the end of the preceding sentence. Individual timestamps and the received text are preserved in the original source file, which is not included in this repository.

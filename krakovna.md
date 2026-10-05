@@ -1,49 +1,49 @@
-# Victoria Krakovna — entrevista de Palisade
+# Victoria Krakovna — Palisade interview
 
-- **Archivo recibido:** [krakovna.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/krakovna.txt)
-- **Cobertura del texto:** 0:00–22:15 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
-- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/krakovna.md).
+- **Source file received:** `krakovna.txt` (not included in this repository).
+- **Text coverage:** 0:00–22:15 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
+- **Text only:** [version without timestamps, contents, or notes](text-only/krakovna.md).
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:41 · Trayectoria y declaración personal](#t-0-41)
-- [1:12 · Progreso de capacidades](#t-1-12)
-- [3:13 · Riesgo de extinción](#t-3-13)
-- [7:26 · Competencia por recursos](#t-7-26)
-- [9:12 · Objetivos instrumentales y monitoreo](#t-9-12)
-- [11:23 · Pérdida de poder humano y otros riesgos](#t-11-23)
-- [12:28 · Coordinación y ritmo de desarrollo](#t-12-28)
-- [14:57 · Auditorías, transparencia y propuestas](#t-14-57)
-- [17:09 · Actitudes entre colegas e interpretación de los incidentes](#t-17-09)
-- [20:34 · Futuro y familia](#t-20-34)
-- [22:01 · Cierre de Palisade](#t-22-01)
+- [0:00 · Opening](#t-0-00)
+- [0:41 · Background and personal statement](#t-0-41)
+- [1:12 · Progress in capabilities](#t-1-12)
+- [3:13 · Extinction risk](#t-3-13)
+- [7:26 · Competition for resources](#t-7-26)
+- [9:12 · Instrumental goals and monitoring](#t-9-12)
+- [11:23 · Loss of human power and other risks](#t-11-23)
+- [12:28 · Coordination and pace of development](#t-12-28)
+- [14:57 · Audits, transparency, and proposals](#t-14-57)
+- [17:09 · Attitudes among colleagues and interpretations of incidents](#t-17-09)
+- [20:34 · The future and family](#t-20-34)
+- [22:01 · Palisade closing remarks](#t-22-01)
 
-## Pasajes para revisar antes de citar
+## Passages to review before quoting
 
-| Tiempo | Texto o tema | Revisión pendiente |
+| Time | Text or topic | Review needed |
 | --- | --- | --- |
-| 9:43–9:46 | “the basic AI drives by Omahandra from 2008” | Comprobar autor y referencia antes de citar; se conserva la grafía recibida. |
+| 9:43–9:46 | “the basic AI drives by Omahandra from 2008” | Check the author and reference before citing; the received spelling is retained. |
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** But I'm just thinking about this from an analogy with humans like humans are more more capable than than other animals on this planet and we have covered the planet in things that humans need kind of at the expense on of things that other animals need and we have driven a lot of other species to extinction if I by analogy to kind of what AI might need like we need a lot of data centers. So so I think there is a significant possibility that AI development could lead to human extinction.
 
 **[0:27]** Um, and this is something that like is one of the underlying concerns for my work. This is why I got into this field.
 
 <a id="t-0-41"></a>
-## 0:41 · Trayectoria y declaración personal
+## 0:41 · Background and personal statement
 
 **[0:41]** I'm Victoria Krakovna. I'm a research scientist at Google DeepMind and the AGI safety team and I've worked here for almost 10 years. I work on AGI safety in particular kind of evaluating models for misalignment and trying to detect if any models are scheming or pursuing instrumental goals that uh you know that are undesirable. I'm definitely speaking here in a personal capacity. These are my personal views that don't represent my employer in any way.
 
 <a id="t-1-12"></a>
-## 1:12 · Progreso de capacidades
+## 1:12 · Progress in capabilities
 
 **[1:12]** First of all, AI capabilities are advancing quite quickly. And if your impressions of how good AI is and what what it can do are based on AI from one or two years ago or they're based on kind of interacting with, you know, models that are available for free. uh then like you probably don't have an accurate sense of how capable those models actually are. Like recently AI has solved a lot of kind of long-standing like open problems in mathematics for example and yeah things are things are happening very fast.
 
@@ -54,7 +54,7 @@
 **[2:40]** I do expect AI capabilities to continue advancing. Um I think there are uh [snorts] yeah there are already kind of uh a lot of domains where where AI can like u perform like you say similarly to humans and yeah the AI companies are putting a lot of resources um into advancing AI capabilities. So absent regulation or coordination on slowing this down I think it will continue advancing quite quickly.
 
 <a id="t-3-13"></a>
-## 3:13 · Riesgo de extinción
+## 3:13 · Extinction risk
 
 **[3:13]** Some people think that AI development will lead to the literal human extinction, the literal extinction of humanity. Do you think that?
 
@@ -71,7 +71,7 @@
 **[6:38]** So for example corporations have have an incentive to preserve themselves and acquire resources. Uh so it doesn't have to be like sensient or conscious or anything like that to have these instrumental goals and this can lead to um this can lead to AI uh kind of pursuing those instrumental goals and in a way that is like at odds with with human interests and you know potentially incompatible with with human survival. If you have kind of powerful AI sort of controlling the planet like maybe it will kind of you know cover the surf surface of the planet in data centers because it has you know it needs more and more data centers to kind of do whatever it is doing.
 
 <a id="t-7-26"></a>
-## 7:26 · Competencia por recursos
+## 7:26 · Competition for resources
 
 **[7:26]** Does that seem like a realistic possibility to you that the AI will cover the planet in data centers?
 
@@ -82,7 +82,7 @@
 **[8:35]** So uh I think the overall concern is that like if we become a second species, if we are no longer kind of in control of the planet, then like the AI is just kind of using the resources for its own purposes that are kind of you know not necessarily good for us and probably by default would not be good. I mean this could be like catastrophic risk rather than existential. maybe some small [snorts] number of humans will survive somewhere, but I feel like you know it's uh like it doesn't make such a big difference to me like I think yeah we just we really don't want to kind of lose control to these you know powerful entities that are not aligned with our our values and interests.
 
 <a id="t-9-12"></a>
-## 9:12 · Objetivos instrumentales y monitoreo
+## 9:12 · Instrumental goals and monitoring
 
 **[9:12]** We have already seen kind of agents pursuing instrumental goals. Uh, for example, like the way that the agents that were hacking, hugging face kind of coordinating on kind of figuring out how to get internet access like internet access is kind of an affordance capability that is, you know, you could say like a form of, you know, resource seeking or power seeking that like gives them the ability to do lots of other things. And like the idea of instrumental goals is quite old.
 
@@ -93,7 +93,7 @@
 **[10:31]** Um and currently like we have agents with monotrable chain of thought. Uh we can look at this incident and there's a lot of transcripts about like how you know how these agents were reasoning about their situation. Um and yeah this is also something that might not hold up with future future models already with the kind of the recent Astro model from open AAI. there's been some analysis that it's uh yeah uh it's harder to monitor and that gets chain of thought is less legible and this is like this is a really valuable resource like in kind of alignment evalation work and like in monitoring and yeah I rely on legible chain of thought a lot in my work so like yeah I think one thing that you know I would really like the field to coordinate on is like let's not lose this property it's really important um yeah just to just put that out there
 
 <a id="t-11-23"></a>
-## 11:23 · Pérdida de poder humano y otros riesgos
+## 11:23 · Loss of human power and other risks
 
 **[11:23]** is human extinction the main bad outcome that you are thinking about or are there other kinds of ways this could go badly?
 
@@ -102,7 +102,7 @@
 **[12:05]** Um I yeah uh I think gradual disempowerment overall looks more likely than extin extinction. is still like I mean of course it's not it's not as bad but it still kind of you know could go in that direction eventually if once again humans are are no longer in control.
 
 <a id="t-12-28"></a>
-## 12:28 · Coordinación y ritmo de desarrollo
+## 12:28 · Coordination and pace of development
 
 **[12:28]** What does the world need to do to properly manage this transition?
 
@@ -115,7 +115,7 @@
 **[14:31]** So like there's a lot of um yeah there's a lot of work in the space that is kind of still ongoing like I think our yeah our kind of safety and evolation methodology is kind of yeah need needs needs time to kind of needs time to be be tested and to become more mature. Um and in this kind of race regime there there just isn't enough time to do this.
 
 <a id="t-14-57"></a>
-## 14:57 · Auditorías, transparencia y propuestas
+## 14:57 · Audits, transparency, and proposals
 
 **[14:57]** Is that your top level policy recommendation that the the AI industry needs to slow down?
 
@@ -128,7 +128,7 @@
 **[16:49]** So we also kind of need more time to uh to ensure this. So overall, yeah, I just feel like uh you know effort from just kind of speeding up AI needs to be redirected into safety and alignment because yeah, there's a lot a lot more to do there and we need kind of we need more time to do that.
 
 <a id="t-17-09"></a>
-## 17:09 · Actitudes entre colegas e interpretación de los incidentes
+## 17:09 · Attitudes among colleagues and interpretations of incidents
 
 **[17:09]** Do you talk about these risks with your colleagues at DeepMind or your colleagues in the AI industry broadly and what's the attitude towards those risks?
 
@@ -147,7 +147,7 @@
 **[19:42]** like how's like you know agents committing a felony marketing trick but apparently like this is this is something that people think sometimes um and maybe this is just kind of like a you know a knee-jerk reaction that people have um but uh yeah like I think yeah I would really like people in AI to kind of take these sort of these sort of incidents seriously and think through their implications uh and it's not yeah there are misconceptions like you know people think that like they were told to hack and therefore they hacked and like there's nothing to see here but like you know in fact this is probably not what they were told like they were told to like do a very specific thing and yeah like what the agents ended up doing was way out of scope I think like especially after this kind of like uh concrete incident a lot more people are are getting worried but um I think also they kind of need to channel that in the right direction
 
 <a id="t-20-34"></a>
-## 20:34 · Futuro y familia
+## 20:34 · The future and family
 
 **[20:34]** when you think about the future how do you feel uh when I think about the future I feel a lot of uncertainty. Um like it's hard to imagine like what the world will be like in you know in five years time like there could be a lot of kind of transformation due to kind of the effects of AI. Um like I mean for me personally like you know I try to imagine what would the future would be like for my children.
 
@@ -156,18 +156,18 @@
 **[21:26]** Uh so I think when I when I think about the future I kind of like yeah I I I don't think very far ahead in terms of like I know I don't try very hard to imagine like what what things will be like in like 10 years. Uh mostly you know uh just trying to make sure it goes well but yeah I don't I don't truly like facing this kind of uncertainty. I don't think like this [music] is uh this is great for everybody else either.
 
 <a id="t-22-01"></a>
-## 22:01 · Cierre de Palisade
+## 22:01 · Palisade closing remarks
 
 **[22:01]** My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch. We would love to include your perspective.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+The interview content was not translated, summarized, or substantively corrected. Name normalizations are explicitly documented; other possible subtitle errors are retained pending comparison with the audio. Claims remain attributed to the interviewee and were not verified in this edition.
 
-- Nombre normalizado: `Victoria Karovna` → `Victoria Krakovna` (1 aparición/es).
-- Nombre normalizado: `Google Deep Mind` → `Google DeepMind` (1 aparición/es).
-- Nombre normalizado: `Eli Tyer` → `Eli Tyre` (1 aparición/es).
+- Normalized name: `Victoria Karovna` → `Victoria Krakovna` (1 occurrence(s)).
+- Normalized name: `Google Deep Mind` → `Google DeepMind` (1 occurrence(s)).
+- Normalized name: `Eli Tyer` → `Eli Tyre` (1 occurrence(s)).
 
-Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
+Each timestamp points to the subtitle where the paragraph or section begins; it may overlap with the end of the preceding sentence. Individual timestamps and the received text are preserved in the original source file, which is not included in this repository.

@@ -1,47 +1,47 @@
-# Vishal Maini — entrevista de Palisade
+# Vishal Maini — Palisade interview
 
-- **Archivo recibido:** [maini.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/maini.txt)
-- **Cobertura del texto:** 0:00–38:55 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
-- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/maini.md).
+- **Source file received:** `maini.txt` (not included in this repository).
+- **Text coverage:** 0:00–38:55 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
+- **Text only:** [version without timestamps, contents, or notes](text-only/maini.md).
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:30 · Trayectoria en DeepMind](#t-0-30)
-- [0:54 · Analogías históricas y transformación de la sociedad](#t-0-54)
-- [4:01 · Riesgo de extinción y condiciones para sobrevivir](#t-4-01)
+- [0:00 · Opening](#t-0-00)
+- [0:30 · Background at DeepMind](#t-0-30)
+- [0:54 · Historical analogies and societal transformation](#t-0-54)
+- [4:01 · Extinction risk and conditions for survival](#t-4-01)
 - [6:33 · Pacing the frontier](#t-6-33)
-- [8:13 · Competencia con China y pérdida de control](#t-8-13)
-- [10:41 · Mejora recursiva](#t-10-41)
-- [12:30 · Superinteligencia](#t-12-30)
-- [13:24 · Cambio de actitudes dentro de los laboratorios](#t-13-24)
-- [20:15 · Convicciones e incentivos para avanzar](#t-20-15)
-- [22:14 · Motivos para seguir trabajando en las empresas](#t-22-14)
-- [24:20 · Su salida de DeepMind](#t-24-20)
-- [25:39 · Preparación, investigación y futuros posibles](#t-25-39)
-- [32:16 · Mensaje a responsables de políticas](#t-32-16)
-- [34:32 · Beneficios posibles](#t-34-32)
-- [36:02 · Familia y mensaje personal](#t-36-02)
-- [37:14 · Perspectiva personal](#t-37-14)
-- [38:38 · Cierre de Palisade](#t-38-38)
+- [8:13 · Competition with China and loss of control](#t-8-13)
+- [10:41 · Recursive improvement](#t-10-41)
+- [12:30 · Superintelligence](#t-12-30)
+- [13:24 · Changing attitudes within labs](#t-13-24)
+- [20:15 · Convictions and incentives to move forward](#t-20-15)
+- [22:14 · Reasons to keep working at companies](#t-22-14)
+- [24:20 · His departure from DeepMind](#t-24-20)
+- [25:39 · Preparation, research, and possible futures](#t-25-39)
+- [32:16 · Message to policymakers](#t-32-16)
+- [34:32 · Potential benefits](#t-34-32)
+- [36:02 · Family and personal message](#t-36-02)
+- [37:14 · Personal perspective](#t-37-14)
+- [38:38 · Palisade closing remarks](#t-38-38)
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** Today, we're not in direct competition with AI because we are in control. But that will be less and less the case every year that comes from today onwards. Artificial general intelligence or artificial super intelligence is a starting line, not a finish line. It's the moment when we hand over the baton and from there we increasingly hand over the future to our successors. And so if we don't pace, we roll the dieice.
 
 <a id="t-0-30"></a>
-## 0:30 · Trayectoria en DeepMind
+## 0:30 · Background at DeepMind
 
 **[0:30]** My name is Vishal Maini. I worked at Google DeepMind on the strategy and communications team from 2018 to 2022. Uh my role there was engaging with the AI community to increase the odds of beneficial deployment of artificial general intelligence um and to communicate the research that DeepMind is doing to the world. In particular, the the research being done by the AI safety team.
 
 <a id="t-0-54"></a>
-## 0:54 · Analogías históricas y transformación de la sociedad
+## 0:54 · Historical analogies and societal transformation
 
 **[0:54]** First and foremost, what do you feel is most important for the world to understand about AI?
 
@@ -56,7 +56,7 @@
 **[3:29]** Um, and this is really just the beginning. We have the full force of capitalism fueling this uh this research boom. Um, and it really just is the beginning. Artificial general intelligence or artificial super intelligence is a starting line, not a finish line. It's the moment when we hand over the baton to AI that can do research and development. So uh we should not expect that we are any clo anywhere close to a ceiling on how capable these systems can be.
 
 <a id="t-4-01"></a>
-## 4:01 · Riesgo de extinción y condiciones para sobrevivir
+## 4:01 · Extinction risk and conditions for survival
 
 **[4:01]** Some people think that there is a chance of human extinction of literally everyone dying as a result of AI development. Do you agree with that?
 
@@ -88,7 +88,7 @@
 **[7:52]** But pacing the frontier is something that everybody in the industry uh seems to be or most in the industry seem to be agreeing on because it's pretty basic common sense. There are a lot of downsides to advancing at the rate that we currently are. Um, and in comparison, the upside seems fairly limited.
 
 <a id="t-8-13"></a>
-## 8:13 · Competencia con China y pérdida de control
+## 8:13 · Competition with China and loss of control
 
 **[8:13]** So, some people are skeptical of pacing the frontier because they think that that entails giving up control over the most powerful AIs to China. What do you make of that concern?
 
@@ -101,7 +101,7 @@
 **[10:11]** That's why it's called the technological singularity. It comes from physics terminology where you can't see beyond the event horizon of a black hole. But what I can say is that we are not yet confident that going past that point will go well. And the current evidence that we have is that today's AI systems are not controllable or easily monitorable. And so if we don't pace, we roll the dieice and it might go okay still.
 
 <a id="t-10-41"></a>
-## 10:41 · Mejora recursiva
+## 10:41 · Recursive improvement
 
 **[10:41]** What is recursive self-improvement?
 
@@ -112,14 +112,14 @@
 **[12:08]** And from there we're no longer the most intelligent beings and we increasingly hand over the future to our successors. This is a significant moment and it's it's either coming very soon has has already already arguably started.
 
 <a id="t-12-30"></a>
-## 12:30 · Superinteligencia
+## 12:30 · Superintelligence
 
 **[12:30]** What is super intelligence and do you think that the AI companies will really build super intelligence?
 
 **[12:39]** Artificial general intelligence is AI that rivals or exceeds human cognitive abilities in virtually all domains. Artificial super intelligence is perhaps a somewhat fuzzier definition but it's whatever comes after that when AI exceeds human abilities in these domains and the crucial thing to understand is that once we have human level AI that includes the ability to do AI research so we should expect that once we have AGI we will very soon after that have ASI or super intelligence and we seem to be relatively close to reaching the point of human level AI on the current trajectory.
 
 <a id="t-13-24"></a>
-## 13:24 · Cambio de actitudes dentro de los laboratorios
+## 13:24 · Changing attitudes within labs
 
 **[13:24]** So when you worked at DeepMind, did you discuss these risks the this this transition to the world with your colleagues?
 
@@ -156,7 +156,7 @@
 **[19:36]** And it starts to feel important to prepare for that. And so I would say that as more people have become true believers that this is possible, as it becomes more and more obvious that it's possible, the risks also become more apparent. But from the very beginning, I would say that the early DeepMind research team and many of the founding team of OpenAI and also of Anthropic have been what I would call true believers. People who genuinely believe that this technology will be the most important and powerful invention in all of human history.
 
 <a id="t-20-15"></a>
-## 20:15 · Convicciones e incentivos para avanzar
+## 20:15 · Convictions and incentives to move forward
 
 **[20:15]** Did the true believers do something different?
 
@@ -167,7 +167,7 @@
 **[21:59]** I think that happened faster than otherwise would have because of the people that were willing to to bet on its importance very early.
 
 <a id="t-22-14"></a>
-## 22:14 · Motivos para seguir trabajando en las empresas
+## 22:14 · Reasons to keep working at companies
 
 **[22:14]** people, members of the public, when they're hearing about the concerns of these employees for the first time, often have the question, if these people think that what they're building could kill everyone, why don't they just stop?
 
@@ -182,7 +182,7 @@
 **[23:44]** In some cases, that is a principled reason to stay at the lab. However, I take the point that that's not always the case. Sometimes there are other reasons that people are at these labs. And it is a good moment to reflect and honestly ask oneself whether whether one's role at a frontier lab is the highest and best use of of that person's talent. I think it's case by case. But we're already seeing some people reflecting on this and making a different decision.
 
 <a id="t-24-20"></a>
-## 24:20 · Su salida de DeepMind
+## 24:20 · His departure from DeepMind
 
 **[24:20]** You personally resigned from DeepMind. Do you want to say a bit about what motivated that decision for you?
 
@@ -191,7 +191,7 @@
 **[25:02]** Um, after a long time away from home, feeling that things were in a much better place there. Um, so it was more of a personal decision than a comment on where the lab was going, but I do feel proud of the progress that the company's made since then. Um, and I genuinely believe that some of that early work made it a little more possible to advance this the frontier of um, you know, safety and governance work in a way that um, I think we still need a lot more of.
 
 <a id="t-25-39"></a>
-## 25:39 · Preparación, investigación y futuros posibles
+## 25:39 · Preparation, research, and possible futures
 
 **[25:39]** So, you you talked about this a little bit already, but what does the world need to do to meet these risks and meet this moment?
 
@@ -224,7 +224,7 @@
 **[32:13]** I would be very excited about that future.
 
 <a id="t-32-16"></a>
-## 32:16 · Mensaje a responsables de políticas
+## 32:16 · Message to policymakers
 
 **[32:16]** So there are currently policy makers who are right now drafting legislation and introducing legislation. If you were in those meetings, what things would you want to make sure that those policy makers understand?
 
@@ -235,7 +235,7 @@
 **[33:58]** There are a lot of ways to poison the well or have policies backfire if they're not grounded in technical realities. Um, and so it is worth just going direct to the people that are developing these models and making sure to be in conversation with them in drafting policies. I'm not a policy expert, nor am I full-time on AI policy today. And so, uh, the comments I would add are are more off the cuff than things that I would take as serious and deeply researched prescriptions.
 
 <a id="t-34-32"></a>
-## 34:32 · Beneficios posibles
+## 34:32 · Potential benefits
 
 **[34:32]** Is there anything that you want to say about the benefits of AI or what a good outcome looks like?
 
@@ -248,7 +248,7 @@
 **[35:53]** No, I think that would be silly. Like the number is not going to be 120. It's going to be higher than that. Right.
 
 <a id="t-36-02"></a>
-## 36:02 · Familia y mensaje personal
+## 36:02 · Family and personal message
 
 **[36:02]** Where did you grow up?
 
@@ -259,7 +259,7 @@
 **[36:49]** Um and we can get it together in the last minute and prepare for the uh recursive self-improvement moment that um the industry is now taking quite seriously. Um it's really good news that there's a growing consensus of the risks because none of this is predetermined.
 
 <a id="t-37-14"></a>
-## 37:14 · Perspectiva personal
+## 37:14 · Personal perspective
 
 **[37:14]** When you think about the whole AI situation, how do you feel [laughter] when I think about the whole AI situation?
 
@@ -270,19 +270,19 @@
 **[38:06]** I think there's a lot of ways that this ends up going really really well. Um, and it's meaningful. It It can provide a sense of purpose and meaning to know that the way that this plays out is is contingent on human actions today. So, I'm hopeful. Um, and I I genuinely hope that a child born today will have one of the best lives that's ever been lived.
 
 <a id="t-38-38"></a>
-## 38:38 · Cierre de Palisade
+## 38:38 · Palisade closing remarks
 
 **[38:38]** Thank you for watching. These videos are part of a series. My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch. We would love to include your perspective.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+The interview content was not translated, summarized, or substantively corrected. Name normalizations are explicitly documented; other possible subtitle errors are retained pending comparison with the audio. Claims remain attributed to the interviewee and were not verified in this edition.
 
-- Nombre normalizado: `Vishal Manny` → `Vishal Maini` (1 aparición/es).
-- Nombre normalizado: `Deep Mind` → `DeepMind` (4 aparición/es).
-- Nombre normalizado: `Eli Tyer` → `Eli Tyre` (1 aparición/es).
-- Nombre normalizado: `Paliside Research` → `Palisade Research` (1 aparición/es).
+- Normalized name: `Vishal Manny` → `Vishal Maini` (1 occurrence(s)).
+- Normalized name: `Deep Mind` → `DeepMind` (4 occurrence(s)).
+- Normalized name: `Eli Tyer` → `Eli Tyre` (1 occurrence(s)).
+- Normalized name: `Paliside Research` → `Palisade Research` (1 occurrence(s)).
 
-Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
+Each timestamp points to the subtitle where the paragraph or section begins; it may overlap with the end of the preceding sentence. Individual timestamps and the received text are preserved in the original source file, which is not included in this repository.

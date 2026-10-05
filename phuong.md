@@ -1,58 +1,58 @@
-# Mary Phuong — entrevista de Palisade
+# Mary Phuong — Palisade interview
 
-- **Archivo recibido:** [phuong.md](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/phuong.md)
-- **Cobertura del texto:** 0:00–20:36 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
-- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/phuong.md).
+- **Source file received:** `phuong.md` (not included in this repository).
+- **Text coverage:** 0:00–20:36 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
+- **Text only:** [version without timestamps, contents, or notes](text-only/phuong.md).
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:25 · Trayectoria y declaración personal](#t-0-25)
-- [0:35 · Ritmo de progreso y comprensión de los sistemas](#t-0-35)
-- [1:38 · Uso malicioso y pérdida de control](#t-1-38)
-- [3:18 · Extinción e incertidumbre](#t-3-18)
-- [5:18 · Superinteligencia](#t-5-18)
+- [0:00 · Opening](#t-0-00)
+- [0:25 · Background and personal statement](#t-0-25)
+- [0:35 · Pace of progress and understanding of systems](#t-0-35)
+- [1:38 · Misuse and loss of control](#t-1-38)
+- [3:18 · Extinction and uncertainty](#t-3-18)
+- [5:18 · Superintelligence](#t-5-18)
 - [6:01 · Pacing the frontier](#t-6-01)
-- [6:42 · Automatización de la investigación](#t-6-42)
-- [7:56 · Tiempo para investigar y límites de las evaluaciones](#t-7-56)
-- [10:12 · Razonamiento intermedio y monitoreo](#t-10-12)
-- [12:42 · Trabajar dentro de los laboratorios](#t-12-42)
-- [13:44 · Conflictos de interés y confianza pública](#t-13-44)
-- [15:09 · Condiciones para renunciar](#t-15-09)
-- [15:57 · Responsabilidad política](#t-15-57)
-- [16:33 · Perspectiva personal](#t-16-33)
-- [17:34 · Familia y motivación](#t-17-34)
-- [20:19 · Cierre de Palisade](#t-20-19)
+- [6:42 · Research automation](#t-6-42)
+- [7:56 · Time for research and limits of evaluations](#t-7-56)
+- [10:12 · Intermediate reasoning and monitoring](#t-10-12)
+- [12:42 · Working within labs](#t-12-42)
+- [13:44 · Conflicts of interest and public trust](#t-13-44)
+- [15:09 · Conditions for resigning](#t-15-09)
+- [15:57 · Political responsibility](#t-15-57)
+- [16:33 · Personal perspective](#t-16-33)
+- [17:34 · Family and motivation](#t-17-34)
+- [20:19 · Palisade closing remarks](#t-20-19)
 
-## Pasajes para revisar antes de citar
+## Passages to review before quoting
 
-| Tiempo | Texto o tema | Revisión pendiente |
+| Time | Text or topic | Review needed |
 | --- | --- | --- |
-| 3:36 | “extension risk” | Posible error de reconocimiento; cotejar con el audio antes de citar. |
-| 17:45 | “Eli goes to look up.” | Posible acotación incluida en la transcripción; se conserva sin atribuirla a un hablante. |
+| 3:36 | “extension risk” | Possible speech recognition error; check against the audio before quoting. |
+| 17:45 | “Eli goes to look up.” | Possible stage direction included in the transcript; retained without attributing it to a speaker. |
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** The guarantees we have that these alien minds are aligned to us are very slim. They just could just have immense influence over the course of humanity. It is imaginable that this would lead to extinction or perhaps to uh disempowerment of humanity.
 
 <a id="t-0-25"></a>
-## 0:25 · Trayectoria y declaración personal
+## 0:25 · Background and personal statement
 
 **[0:25]** My name is Mary Phuong. I work at Google DeepMind on the safety team and I've been there since 2022. I'm talking today in my personal capacity and my views don't represent those of my employer.
 
 <a id="t-0-35"></a>
-## 0:35 · Ritmo de progreso y comprensión de los sistemas
+## 0:35 · Pace of progress and understanding of systems
 
 **[0:35]** I think one thing that people should understand about AI is the pace of progress and also how little we know about this technology. So if you have been following AI um the pace at which for example models are getting better at coding or at mathematics has been has been crazy um and there is a possibility that this pace of progress just continues. I think um in particular in domains that we can verify like like AI development itself um and if this happens then then the pace of progress might be faster still um and the scary bit is that we don't really understand what what we what mo motivations we are building into these systems um or or how to control how to control or oversee this these systems and there there might not be um very much time to to do all of that.
 
 <a id="t-1-38"></a>
-## 1:38 · Uso malicioso y pérdida de control
+## 1:38 · Misuse and loss of control
 
 **[1:38]** What are the risks that you're concerned with with regards to AI development?
 
@@ -63,7 +63,7 @@
 **[3:07]** Um, and I think if models become way more capable, but we are still this bad at shaping their motivations, then we might just lose control over them.
 
 <a id="t-3-18"></a>
-## 3:18 · Extinción e incertidumbre
+## 3:18 · Extinction and uncertainty
 
 **[3:18]** Some people think that losing control of AI could lead to human extinction where literally everyone dies. Uh, does that seem realistic to you?
 
@@ -74,7 +74,7 @@
 **[4:58]** I'm not necessarily saying that extinction is inevitable um or that it's impossible. Um, I just feel like humanity really doesn't know and we should we should be able to rule out these risks before we proceed to to build these super intelligent uh AIs.
 
 <a id="t-5-18"></a>
-## 5:18 · Superinteligencia
+## 5:18 · Superintelligence
 
 **[5:18]** Can you say what you mean by super intelligence?
 
@@ -88,7 +88,7 @@
 **[6:08]** I absolutely support the idea of pacing the frontier. I in fact signed the letter and what the letter says is simply that um the government um should build a should create some coordination mechanism between labs um both um both in the west but also internationally that would allow labs that who are currently locked in an AI race towards more and more capable AI to take more time to spend on safety and security and alignment science.
 
 <a id="t-6-42"></a>
-## 6:42 · Automatización de la investigación
+## 6:42 · Research automation
 
 **[6:42]** Does it seem realistic to you that the AI companies might actually build super intelligence?
 
@@ -97,7 +97,7 @@
 **[7:36]** If AI development becomes fully automated um or even very close to fully automated then the pace of development could be extremely fast. These models that are built via this automated process. It's not clear what the capability of ceiling for those models would be and it is I think possible that they would be super intelligent.
 
 <a id="t-7-56"></a>
-## 7:56 · Tiempo para investigar y límites de las evaluaciones
+## 7:56 · Time for research and limits of evaluations
 
 **[7:56]** Other than pacing the frontier, what does the world need to do to prepare for super intelligence or recursive self-improvement or the kind of AI that we're heading for?
 
@@ -110,7 +110,7 @@
 **[9:52]** Um so I think the the science of alignment and of alignment assurance needs to be way more mature before um um needs to be way more mature be before we can um you know proceed to build super intelligence.
 
 <a id="t-10-12"></a>
-## 10:12 · Razonamiento intermedio y monitoreo
+## 10:12 · Intermediate reasoning and monitoring
 
 **[10:12]** So currently AIS have a transparent chain of thought more or less. Uh which is which is quite funny. Uh but basically it means that we can read what they are thinking. Um and from that we can infer um their their reasoning or or what potential factors lead into their decisions and actions. Um and one interesting insight from the from this is that when we test models um sometimes they realize that they are being tested. For example, a model might think, oh, it seems like this is an alignment evaluation, therefore I will act nicely.
 
@@ -131,7 +131,7 @@
 **[12:24]** If this happens and if the trend continues, then we might reach extremely high levels of model capability extremely fast and we don't know what lies ahead or what new risks um become unlocked um at um at this level.
 
 <a id="t-12-42"></a>
-## 12:42 · Trabajar dentro de los laboratorios
+## 12:42 · Working within labs
 
 **[12:42]** Sometimes people when they're hearing about the concerns of employees of these labs think if they think that this could be so catastrophic, why don't they just quit?
 
@@ -142,7 +142,7 @@
 **[13:24]** Um so I think it's not it's not as simple as let's all leave the labs and then things will be fine. Um, I think it will take a combination of both external pressure and internal efforts to to secure and make the make AI development safe.
 
 <a id="t-13-44"></a>
-## 13:44 · Conflictos de interés y confianza pública
+## 13:44 · Conflicts of interest and public trust
 
 **[13:44]** Should members of the public trust you about that perspective?
 
@@ -153,21 +153,21 @@
 **[14:54]** I I do expect in the future probably there will there will be more people quitting labs and then and then hopefully um the signal will be clearer and it will be easier for the public to interpret.
 
 <a id="t-15-09"></a>
-## 15:09 · Condiciones para renunciar
+## 15:09 · Conditions for resigning
 
 **[15:09]** Is there something that you could see or something that you would find could find out that would make you think that you should quit?
 
 **[15:15]** Okay. Personally, what would make me quit is if I felt like I had no way of helping from the inside or if all the ways that I could help from the inside um were were not sufficient. Um I think currently that is not the case where I am because the safety team is well integrated. We have leadership support to to do safety work. Um, so, so I don't think um, it applies currently, but I could imagine a world where it becomes obvious that I'm not making a difference and that I should um, I should quit and go do something else.
 
 <a id="t-15-57"></a>
-## 15:57 · Responsabilidad política
+## 15:57 · Political responsibility
 
 **[15:57]** Is there anything else you want to say to the public, to policy makers, to anyone who's trying to orient to this situation?
 
 **[16:04]** I would like people to internalize that it is coming in the next few years and that we need responsible and informed people leading this this change that could be potentially one of the most important things that will happen in our lifetimes. To the extent that people can vote and choose who who will be at the helm when when we are facing these risks, they should take that into account.
 
 <a id="t-16-33"></a>
-## 16:33 · Perspectiva personal
+## 16:33 · Personal perspective
 
 **[16:33]** When you think about this whole situation with AI, how do you feel?
 
@@ -176,7 +176,7 @@
 **[17:23]** Um so it is definitely I'm not very optimistic.
 
 <a id="t-17-34"></a>
-## 17:34 · Familia y motivación
+## 17:34 · Family and motivation
 
 **[17:34]** Where did you grow up?
 
@@ -191,18 +191,18 @@
 **[19:48]** And I think the main thing I want is that they can continue not thinking about AI and you know just just live their lives as as they're used to. Um and I I see that as the responsibility of you know those of us who who have the opportunity to try to um influence this techn this technology to make it go better.
 
 <a id="t-20-19"></a>
-## 20:19 · Cierre de Palisade
+## 20:19 · Palisade closing remarks
 
 **[20:19]** Thank you for watching. These videos are part of a series. My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch. We would love to include your perspective.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+The interview content was not translated, summarized, or substantively corrected. Name normalizations are explicitly documented; other possible subtitle errors are retained pending comparison with the audio. Claims remain attributed to the interviewee and were not verified in this edition.
 
-- Nombre normalizado: `My name is Mary Fu.` → `My name is Mary Phuong.` (1 aparición/es).
-- Nombre normalizado: `Eli Ty.` → `Eli Tyre.` (1 aparición/es).
-- Nombre normalizado: `Palisad Research` → `Palisade Research` (1 aparición/es).
+- Normalized name: `My name is Mary Fu.` → `My name is Mary Phuong.` (1 occurrence(s)).
+- Normalized name: `Eli Ty.` → `Eli Tyre.` (1 occurrence(s)).
+- Normalized name: `Palisad Research` → `Palisade Research` (1 occurrence(s)).
 
-Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
+Each timestamp points to the subtitle where the paragraph or section begins; it may overlap with the end of the preceding sentence. Individual timestamps and the received text are preserved in the original source file, which is not included in this repository.

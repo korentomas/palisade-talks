@@ -1,36 +1,36 @@
-# Jeffrey Ladish — entrevista de Palisade
+# Jeffrey Ladish — Palisade interview
 
-- **Archivo recibido:** [ladish.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/ladish.txt)
-- **Cobertura del texto:** 0:00–26:40 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
-- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/ladish.md).
+- **Source file received:** `ladish.txt` (not included in this repository).
+- **Text coverage:** 0:00–26:40 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
+- **Text only:** [version without timestamps, contents, or notes](text-only/ladish.md).
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:30 · Trayectoria y creación de Palisade](#t-0-30)
-- [2:19 · Incidentes recientes](#t-2-19)
-- [6:33 · Preocupación central](#t-6-33)
-- [7:43 · Extinción y mecanismos de daño](#t-7-43)
-- [11:13 · Automatización, robótica y otras vías de pérdida de control](#t-11-13)
-- [15:45 · Ritmo de desarrollo y suficiencia de las defensas](#t-15-45)
-- [19:39 · Competencia con China y coordinación](#t-19-39)
-- [22:16 · Conversaciones en Anthropic](#t-22-16)
-- [23:08 · Mensaje a responsables de políticas](#t-23-08)
-- [25:12 · Perspectiva personal y opciones](#t-25-12)
-- [26:24 · Cierre de Palisade](#t-26-24)
+- [0:00 · Opening](#t-0-00)
+- [0:30 · Background and founding Palisade](#t-0-30)
+- [2:19 · Recent incidents](#t-2-19)
+- [6:33 · Central concern](#t-6-33)
+- [7:43 · Extinction and mechanisms of harm](#t-7-43)
+- [11:13 · Automation, robotics, and other paths to loss of control](#t-11-13)
+- [15:45 · Pace of development and adequacy of defenses](#t-15-45)
+- [19:39 · Competition with China and coordination](#t-19-39)
+- [22:16 · Conversations at Anthropic](#t-22-16)
+- [23:08 · Message to policymakers](#t-23-08)
+- [25:12 · Personal perspective and options](#t-25-12)
+- [26:24 · Palisade closing remarks](#t-26-24)
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** We're currently locked in this race where companies are making AI more and more powerful. What I think is going to happen if we keep making these things more powerful is that humans will be in the way of these systems and they will figure out how to move us out of the way and we don't have a plan for how we could possibly control those agents. This is not a good idea. We have choices to make.
 
 <a id="t-0-30"></a>
-## 0:30 · Trayectoria y creación de Palisade
+## 0:30 · Background and founding Palisade
 
 **[0:30]** My name is Jeffrey Ladish and I was a second person on the security team at Anthropic from 2021 to 2022 and basically I was trying to figure out how do we make sure that Anthropics models don't get stolen especially by state actors and abused. I left Anthropic because it seemed like we needed actual government oversight of AI development because even if one or two companies was very responsible and did everything right, there are many AI companies.
 
@@ -39,7 +39,7 @@
 **[1:42]** And what we've seen since then is AI systems get increasingly good at more and more difficult problems in including programming um including research and there's no end in sight to that. It seems like we really might be close to uh AI agents which are smarter and more strategic than humans. And clearly based on what we what we've been seeing um it does not it's not looking good for our ability to control them. It seems like we're not on track to knowing how to control agents that are getting very smart.
 
 <a id="t-2-19"></a>
-## 2:19 · Incidentes recientes
+## 2:19 · Recent incidents
 
 **[2:19]** What is it that we've been seeing lately?
 
@@ -60,7 +60,7 @@
 **[6:22]** Uh, and I would like that cuz then, you know, we get to hang out and not die, which I love. [snorts]
 
 <a id="t-6-33"></a>
-## 6:33 · Preocupación central
+## 6:33 · Central concern
 
 **[6:33]** Can you say in one sentence what is most concerning you about AI?
 
@@ -71,7 +71,7 @@
 **[7:40]** It's a very dangerous situation to be in.
 
 <a id="t-7-43"></a>
-## 7:43 · Extinción y mecanismos de daño
+## 7:43 · Extinction and mechanisms of harm
 
 **[7:43]** Do you personally think that there's a chance of human extinction?
 
@@ -92,7 +92,7 @@
 **[10:45]** I think it's pretty likely that if we continue along the current course, humans won't be in control anymore. And if that happens, it's up to the AIS whether we survive or not. And I'm pretty worried that they won't care about us and that we won't make it. But regardless, I really want to avoid a future where we're in the situation where AI agents have total power over humans.
 
 <a id="t-11-13"></a>
-## 11:13 · Automatización, robótica y otras vías de pérdida de control
+## 11:13 · Automation, robotics, and other paths to loss of control
 
 **[11:13]** It sounds like you're only worried if we build factories, automated factories, and robots to man those factories. Is that right?
 
@@ -119,7 +119,7 @@
 **[15:40]** Pace the Jurassic Park. [snorts]
 
 <a id="t-15-45"></a>
-## 15:45 · Ritmo de desarrollo y suficiencia de las defensas
+## 15:45 · Pace of development and adequacy of defenses
 
 **[15:45]** Can I ask uh it sounds like you're you're suggesting that we should not just slow down, but stop it. How how do you think we should think about the speed at which the frontier should move?
 
@@ -148,7 +148,7 @@
 **[19:17]** I would really like to not get on the plane." Actually, [ __ ] that. You can't make me get on this plane. what's happening. And that's basically the situation we're in. And what I would like to tell people is don't get on the plane. You do not have to get on this plane. But we do need to stop the people who are trying to push you into this plane because that's it's kind of [ __ ] up.
 
 <a id="t-19-39"></a>
-## 19:39 · Competencia con China y coordinación
+## 19:39 · Competition with China and coordination
 
 **[19:39]** What do you say to to the what about China question?
 
@@ -171,7 +171,7 @@
 **[21:43]** These are the types of questions that military planners and analysts could answer about their adversaries. And if the US and China can come together and do the same thing, then they don't have to trust each other. And that's to me a pretty big deal. Like it seems pretty possible to verify that neither country is building super intelligence and then we can compete along like normal economic grounds building very useful stuff but not you know building worldending super weapons.
 
 <a id="t-22-16"></a>
-## 22:16 · Conversaciones en Anthropic
+## 22:16 · Conversations at Anthropic
 
 **[22:16]** I guess one thing I want to ask is so you worked at Anthropic. Um did you talk with your colleagues and co-workers at Anthropic about these kinds of things?
 
@@ -184,7 +184,7 @@
 **[22:43]** And even back then, I think people were pretty unsure whether we would actually make it through this. Like already then some people were pretty scared. Now when I talk to my friends who work at Anthropic or OpenAI, they're more scared than they were. It feels more real to them and closer and especially recent events in the last few months have not been reassuring.
 
 <a id="t-23-08"></a>
-## 23:08 · Mensaje a responsables de políticas
+## 23:08 · Message to policymakers
 
 **[23:08]** There are currently policy makers. Yes. Who are debating and drafting legislation. Yeah. Is there anything that you, if you were talking directly to those policy makers, is there anything that you would want to tell them?
 
@@ -201,7 +201,7 @@
 **[24:29]** To the point where you have a runaway feedback process and you have these agents that are way smarter than us. Like if that is true, everyone in the world needs to know that so we know how to respond. And if it's not true, yeah, we need to know that because it implies very different policies that we should take. And it's very easy to get caught up in like the different tribes, you know, like, oh, open source versus the the the companies, like we have to like, you know, we have to like I'm like, yes, we have to figure out these questions, but like at the end of the day, I'm like, what's what's actually true
 
 <a id="t-25-12"></a>
-## 25:12 · Perspectiva personal y opciones
+## 25:12 · Personal perspective and options
 
 **[25:12]** when you think about the future?
 
@@ -212,19 +212,19 @@
 **[26:00]** Like these are happening. Yeah. It's just quite quite unprecedented. And so people seeing this, seeing the world oriented, this I think gives me quite a bit of hope because I'm like, "Yeah, no, the future is not decided at all. We have choices [music] to make.
 
 <a id="t-26-24"></a>
-## 26:24 · Cierre de Palisade
+## 26:24 · Palisade closing remarks
 
 **[26:24]** Thank you for watching. These videos are part of a series. My name is Eli Tyre. I work for Palisade Research, where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+The interview content was not translated, summarized, or substantively corrected. Name normalizations are explicitly documented; other possible subtitle errors are retained pending comparison with the audio. Claims remain attributed to the interviewee and were not verified in this edition.
 
-- Nombre normalizado: `Enthropic` → `Anthropic` (8 aparición/es).
-- Nombre normalizado: `paliside research` → `Palisade Research` (1 aparición/es).
-- Nombre normalizado: `chatbt` → `ChatGPT` (2 aparición/es).
-- Nombre normalizado: `Eli Ty.` → `Eli Tyre.` (1 aparición/es).
+- Normalized name: `Enthropic` → `Anthropic` (8 occurrence(s)).
+- Normalized name: `paliside research` → `Palisade Research` (1 occurrence(s)).
+- Normalized name: `chatbt` → `ChatGPT` (2 occurrence(s)).
+- Normalized name: `Eli Ty.` → `Eli Tyre.` (1 occurrence(s)).
 
-Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
+Each timestamp points to the subtitle where the paragraph or section begins; it may overlap with the end of the preceding sentence. Individual timestamps and the received text are preserved in the original source file, which is not included in this repository.

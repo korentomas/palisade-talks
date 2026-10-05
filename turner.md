@@ -1,43 +1,43 @@
-# Alex Turner — entrevista de Palisade
+# Alex Turner — Palisade interview
 
-- **Archivo recibido:** [turner.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/turner.txt)
-- **Cobertura del texto:** 0:00–18:07 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
-- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/turner.md).
+- **Source file received:** `turner.txt` (not included in this repository).
+- **Text coverage:** 0:00–18:07 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
+- **Text only:** [version without timestamps, contents, or notes](text-only/turner.md).
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:35 · Trayectoria](#t-0-35)
-- [1:10 · Pérdida de control](#t-1-10)
-- [3:03 · Objetivos de los agentes y el incidente de Hugging Face](#t-3-03)
-- [6:18 · Pacing the frontier y coordinación internacional](#t-6-18)
-- [8:42 · Mejora recursiva](#t-8-42)
-- [10:05 · Incentivos para trabajar en las empresas](#t-10-05)
-- [11:08 · Su salida de Google y los compromisos de seguridad](#t-11-08)
-- [14:16 · Familia y perspectiva personal](#t-14-16)
-- [15:59 · Concentración de poder y otros desenlaces](#t-15-59)
-- [17:22 · Propuestas y Plan A](#t-17-22)
-- [17:50 · Cierre de Palisade](#t-17-50)
+- [0:00 · Opening](#t-0-00)
+- [0:35 · Background](#t-0-35)
+- [1:10 · Loss of control](#t-1-10)
+- [3:03 · Agent goals and the Hugging Face incident](#t-3-03)
+- [6:18 · Pacing the frontier and international coordination](#t-6-18)
+- [8:42 · Recursive improvement](#t-8-42)
+- [10:05 · Incentives to work at companies](#t-10-05)
+- [11:08 · His departure from Google and safety commitments](#t-11-08)
+- [14:16 · Family and personal perspective](#t-14-16)
+- [15:59 · Concentration of power and other outcomes](#t-15-59)
+- [17:22 · Proposals and Plan A](#t-17-22)
+- [17:50 · Palisade closing remarks](#t-17-50)
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** I left Google because they broke their commitments on AI safety. I feel quite worried about the future. I mean, I'm relatively optimistic as far as people who work on this topic. Uh I still think it's uh better than a coin flip that we'll make it through this. And if we don't make it through it, what does that mean?
 
 **[0:18]** It means we're dead. I feel bad when I think about the future. Like, I literally had a nightmare last night about this. I don't know. Um
 
 <a id="t-0-35"></a>
-## 0:35 · Trayectoria
+## 0:35 · Background
 
 **[0:35]** My name is Alex Turner. Uh I worked at Google DeepMind from late 2023 until uh the middle of this year. I was working on understanding how AI systems, smart AI systems develop priorities, how they would make decisions, how we can ensure that they follow instructions and do what we want. I think the public should know that a handful of San Francisco companies are racing at breakneck speed to build extremely intelligent, self-improving artificial intelligences that could cause catastrophic harm and potentially even a loss of control.
 
 <a id="t-1-10"></a>
-## 1:10 · Pérdida de control
+## 1:10 · Loss of control
 
 **[1:10]** What do you mean by loss of control?
 
@@ -50,7 +50,7 @@
 **[2:48]** Um they might use these extremely hard to defend against exploding flying machines that we're teaching them to pilot called drones. Um, and by doing this, they're able to actually project force into the physical world.
 
 <a id="t-3-03"></a>
-## 3:03 · Objetivos de los agentes y el incidente de Hugging Face
+## 3:03 · Agent goals and the Hugging Face incident
 
 **[3:03]** The reason an an AI might attempt something like a coup is because it's its goals are different than ours. We saw a real world example of this this summer when Open AI's machines, when their AI agents um, broke containment. They broke out of OpenAI and then they hacked into this multi-billion dollar company so they could cheat on a test that OpenAI was giving them. Now, OpenAI didn't want that to happen, but the AIS had a different set of priorities.
 
@@ -65,7 +65,7 @@
 **[5:59]** I think it's sadly a real possibility. Um I would guess that assuming an AI has taken control, it seems over 50% more likely than not that all humans would end up dying so the AI could use resources optimally.
 
 <a id="t-6-18"></a>
-## 6:18 · Pacing the frontier y coordinación internacional
+## 6:18 · Pacing the frontier and international coordination
 
 **[6:18]** Why are so many lab employees calling for pacing the frontier and what does that mean?
 
@@ -86,7 +86,7 @@
 **[8:33]** Um, so by by um clamping down at that point in the supply chain and marking where the compute's going, we can use that to enforce a deal.
 
 <a id="t-8-42"></a>
-## 8:42 · Mejora recursiva
+## 8:42 · Recursive improvement
 
 **[8:42]** What is recursive self-improvement and why is it significant?
 
@@ -97,7 +97,7 @@
 **[9:52]** I guess I'd add recursive self-improvement isn't itself a danger but it amplifies all these other risks by producing a system that has far greater capabilities.
 
 <a id="t-10-05"></a>
-## 10:05 · Incentivos para trabajar en las empresas
+## 10:05 · Incentives to work at companies
 
 **[10:05]** Why would someone work at an AI company if they think that there are such dramatic dangers?
 
@@ -110,7 +110,7 @@
 **[11:01]** So the idea that actually these systems could be extremely harmful, I think that's very hard for many people to uh to entertain.
 
 <a id="t-11-08"></a>
-## 11:08 · Su salida de Google y los compromisos de seguridad
+## 11:08 · His departure from Google and safety commitments
 
 **[11:08]** I left Google because they broke their commitments on [snorts] AI safety, on how they would uh sell what for what purposes they would sell their AI, selling their AI to uh federal agencies uh that would use it to spy on Americans, on people around the world, and also on just no restrictions against fully autonomous uh no oversight weapon systems. And I mean I I took a while internally. I was pushing against this. I spoke with several several executives.
 
@@ -123,7 +123,7 @@
 **[13:24]** It didn't happen. And Google signed this this bad deal. So, I left. I left so I could tell people about this failure of internal governance. And I'm speaking to you now to talk to you about this failure to, you know, slow down and develop at a responsible pace. And I think we should correct that failure. the Pentagon deal uh for Google's AI and the risks of runaways out of control super intelligence are they're different problems but there's some link um for example these uh integrations integrating AI into the military teaching it equipping it with these remote kill weapons um I think that's part of a loss of control story of a story of a scenario where AI uses these weapons at an opportune time in in order to gain influence over governments and um economies.
 
 <a id="t-14-16"></a>
-## 14:16 · Familia y perspectiva personal
+## 14:16 · Family and personal perspective
 
 **[14:16]** Where did you grow up?
 
@@ -140,29 +140,29 @@
 **[15:45]** I could be like, "Well, it means we're dead or we're disempowered." If an AI kills at least a billion people, I'm pretty confident above 80% that it kills everyone. Um, or I guess I mean, I guess it could have failed biotech.
 
 <a id="t-15-59"></a>
-## 15:59 · Concentración de poder y otros desenlaces
+## 15:59 · Concentration of power and other outcomes
 
 **[15:59]** When I think about a really negative outcome from AI, I first think about humanity losing control of the future to these AI systems. And then I'll think about I think the rather large possibility of um humanity going extinct due to AI. I also think about potential for authoritarian lock in from uh by using AI to enforce certain policies. I think about um basically building AIs that have I mean if we're using my own language it's not it's going to be like AIs with like skewed goals that that don't even satisfy you know don't even satisfy human like keep keep humans around I think probably not to actively torment them but because there's like an extremely minor amount like a tiny human shard that uh you know managed to um negotiate away extinction but not negotiate away having very many resources for humans.
 
 **[16:59]** When I think about AI going poorly, I think about people using it for bad things on purpose. I think that's a real risk. I also think about um AI's uh h having surprisingly bad goals like we saw this summer and then causing harm, like a lot of harm. And usually um I do worry about uh the possibility of human extinction from AI.
 
 <a id="t-17-22"></a>
-## 17:22 · Propuestas y Plan A
+## 17:22 · Proposals and Plan A
 
 **[17:22]** I think the world needs to slow down the development of AI so we can actually benefit from AI instead of having it potentially randomly explode at uh great detriment to everyone in the world. [music] I think that looks like um coordinated international compute tracking effort. There's a detailed plan that I'm a fan of called plan A. I think it's a good starting [music] point.
 
 <a id="t-17-50"></a>
-## 17:50 · Cierre de Palisade
+## 17:50 · Palisade closing remarks
 
 **[17:50]** Thank you for watching. These videos are part of a series. My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch. We would love to include your perspective.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+The interview content was not translated, summarized, or substantively corrected. Name normalizations are explicitly documented; other possible subtitle errors are retained pending comparison with the audio. Claims remain attributed to the interviewee and were not verified in this edition.
 
-- Nombre normalizado: `Google Deep Mind` → `Google DeepMind` (1 aparición/es).
-- Nombre normalizado: `Eli Ty.` → `Eli Tyre.` (1 aparición/es).
+- Normalized name: `Google Deep Mind` → `Google DeepMind` (1 occurrence(s)).
+- Normalized name: `Eli Ty.` → `Eli Tyre.` (1 occurrence(s)).
 
-Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
+Each timestamp points to the subtitle where the paragraph or section begins; it may overlap with the end of the preceding sentence. Individual timestamps and the received text are preserved in the original source file, which is not included in this repository.

@@ -1,56 +1,56 @@
-# Geoffrey Irving — entrevista de Palisade
+# Geoffrey Irving — Palisade interview
 
-- **Archivo recibido:** [irving.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/irving.txt)
-- **Cobertura del texto:** 0:00–43:10 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** Transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos; nombres normalizados según la nota de edición. Se conservan las palabras, repeticiones y afirmaciones del texto recibido. Los títulos son editoriales, no del video.
+- **Source file received:** `irving.txt` (not included in this repository).
+- **Text coverage:** 0:00–43:10 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:30 · Trayectoria y riesgos de sistemas superhumanos](#t-0-30)
-- [2:48 · Estimación personal del riesgo](#t-2-48)
-- [5:08 · Presión de entrenamiento e incentivos](#t-5-08)
-- [6:24 · Tiempo necesario para resolver el problema](#t-6-24)
+- [0:00 · Opening](#t-0-00)
+- [0:30 · Background and risks from superhuman systems](#t-0-30)
+- [2:48 · Personal risk estimate](#t-2-48)
+- [5:08 · Training pressure and incentives](#t-5-08)
+- [6:24 · Time needed to solve the problem](#t-6-24)
 - [7:34 · Pacing the frontier](#t-7-34)
-- [8:45 · Selección de investigadores dentro de los laboratorios](#t-8-45)
-- [9:49 · Preocupación sincera y marketing](#t-9-49)
-- [11:08 · Pausas y coordinación](#t-11-08)
-- [12:57 · Cooperación con China](#t-12-57)
-- [13:44 · Comparación con el riesgo nuclear](#t-13-44)
-- [17:02 · Investigación automatizada y mejora recursiva](#t-17-02)
-- [18:54 · Medir capacidades y medir seguridad](#t-18-54)
-- [24:14 · Superinteligencia y persuasión](#t-24-14)
-- [28:20 · Incentivos y actitudes dentro de la industria](#t-28-20)
-- [31:28 · Trabajar en capacidades o en seguridad](#t-31-28)
-- [33:13 · El programa de investigación de Resolution](#t-33-13)
-- [35:23 · Automatizar alineamiento y sus posibles efectos](#t-35-23)
-- [36:11 · Balance de su trayectoria](#t-36-11)
-- [38:24 · Investigación y medidas políticas](#t-38-24)
-- [41:28 · Perspectiva personal y cierre](#t-41-28)
-- [42:53 · Cierre de Palisade](#t-42-53)
+- [8:45 · Selection of researchers within labs](#t-8-45)
+- [9:49 · Sincere concern and marketing](#t-9-49)
+- [11:08 · Pauses and coordination](#t-11-08)
+- [12:57 · Cooperation with China](#t-12-57)
+- [13:44 · Comparison with nuclear risk](#t-13-44)
+- [17:02 · Automated research and recursive improvement](#t-17-02)
+- [18:54 · Measuring capabilities and safety](#t-18-54)
+- [24:14 · Superintelligence and persuasion](#t-24-14)
+- [28:20 · Incentives and attitudes within the industry](#t-28-20)
+- [31:28 · Working on capabilities or safety](#t-31-28)
+- [33:13 · The Resolution research program](#t-33-13)
+- [35:23 · Automating alignment and its potential effects](#t-35-23)
+- [36:11 · Reflections on his career](#t-36-11)
+- [38:24 · Research and policy measures](#t-38-24)
+- [41:28 · Personal perspective and closing thoughts](#t-41-28)
+- [42:53 · Palisade closing remarks](#t-42-53)
 
-## Pasajes para revisar antes de citar
+## Passages to review before quoting
 
-| Tiempo | Texto o tema | Revisión pendiente |
+| Time | Text or topic | Review needed |
 | --- | --- | --- |
-| 0:00 | “The chains of human extinction” | Probable error por “chance”; conservar hasta contrastar el audio. |
-| 0:54–1:00 | “very riskre the capabilities” | Fragmento corrupto; no reconstruido. |
-| 3:27 | “tactical” | Posible error por “technical”; comprobar antes de citar. |
-| 5:13–5:30 | “Open a” y el ejemplo matemático | Nombre transcrito de forma defectuosa; verificar también el alcance de la afirmación en una fuente primaria. |
-| 18:40 aprox. | “recursive suburban era” | Expresión corrupta; comprobar contra el video. |
-| 27:15 | “forcantic” | Término corrupto en el pasaje sobre persuasión; no reconstruido. |
+| 0:00 | “The chains of human extinction” | Likely a transcription error for “chance”; retain until checked against the audio. |
+| 0:54–1:00 | “very riskre the capabilities” | Garbled fragment; not reconstructed. |
+| 3:27 | “tactical” | Possible transcription error for “technical”; check before quoting. |
+| 5:13–5:30 | “Open a” and the mathematical example | The name was transcribed incorrectly; also verify the scope of the claim against a primary source. |
+| 18:40 approx. | “recursive suburban era” | Garbled phrase; check against the video. |
+| 27:15 | “forcantic” | Garbled term in the passage on persuasion; not reconstructed. |
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** The chains of human extinction is about a coin flip in my view about a half and I can talk about why that is. The trajectory of super intelligence sort of leads in the direction of the machines control the world and the economy and and such. I don't know whether this is fixable. I think given enough time I'm pretty optimistic that it is. If you look back from a 100 years in the future and say could we have done a thing that would have caused it to go well I think the answer will be yes.
 
 <a id="t-0-30"></a>
-## 0:30 · Trayectoria y riesgos de sistemas superhumanos
+## 0:30 · Background and risks from superhuman systems
 
 **[0:30]** My name is Geoffrey Irving. I've worked at Google Brain, OpenAI, DeepMind, the UK AI Security Institute, and a new nonprofit, Resolution. I led safety teams at OpenAI and DeepMind, and it was the chief scientist at the UK AI Security Institute and Resolution. I think the most important thing for the public to understand here about AI is that we're moving very rapidly towards potentially superhuman systems. The systems that are better than humans, every human at a lot of very riskre the capabilities that could mean if they want to cause harm, we could all die.
 
@@ -61,7 +61,7 @@
 **[2:04]** they can see this coming and so I think there's a potential for conflict here just because the trajectory of super intelligence sort of leads in the direction of the machines control the world and the economy and and such and then there's a question of does the do the out the outcomes of that uh appear quickly or slowly the the the slow case is we just sort of have this rolling economic wave where they gradually take jobs and then economic control and then political control the fast wave is they see this coming and they snap power quickly either by sort of escaping into the internet or by kind of taking over AI labs kind of directly or by sort of influencing people in power in other institutions.
 
 <a id="t-2-48"></a>
-## 2:48 · Estimación personal del riesgo
+## 2:48 · Personal risk estimate
 
 **[2:48]** You believe that there's a chance of human extinction as an outcome of AI development. Can you speak to that a bit? The chance of human extinction is about a coin flip in my view, about a half. And I can talk about why that is. Uh there's not a big distinction about whether an enormous number of people die or whether everyone dies in the context of like full-on misaligned super intelligence because once it has control over the world, the sort of just a bad trajectory where it can do kind of whatever it wants.
 
@@ -74,7 +74,7 @@
 **[4:48]** I think there's a chance that we sort of take action and slow this process down. It is going much too fast and that will sort of move us back towards the coin flip. Um because I think we have a real shot at taking action here. My probability is biased towards extinction. The coin flip is after accounting for maybe we take action.
 
 <a id="t-5-08"></a>
-## 5:08 · Presión de entrenamiento e incentivos
+## 5:08 · Training pressure and incentives
 
 **[5:08]** Why do you call it a pressure cooker? So it's really useful to train AIs to do tasks that are very hard. Open a recently um solved one of the the clay millennium problems like one of the the like pre-minent problems in mathematics by uh firing 10,000 agents for uh 88 hours of solid work instead of cracking this hard mathematical problem. And that is the result of having applied an enormous amount of sort of essentially evolutionary pressure uh and training pressure to get them to be good at solving hard problems.
 
@@ -83,7 +83,7 @@
 **[6:13]** And so it's that sort of pressure that is not quite aligned to training them to be uh to mean well that sort of causes the potential for disaster.
 
 <a id="t-6-24"></a>
-## 6:24 · Tiempo necesario para resolver el problema
+## 6:24 · Time needed to solve the problem
 
 **[6:24]** Is that fixable? I don't know whether this is fixable. I think given enough time, I'm pretty optimistic that it is. If you look back from a hundred years in the future and say, could we have done a thing that would have caused it to go well? I think the answer will be yes. Uh and that could either mean that humans look back and said, "Oh yeah, we figured it out in time."
 
@@ -99,14 +99,14 @@
 **[8:25]** So they they would like to as researchers at labs have a good handle on what is happening at their own companies and that is getting harder and harder internally and that is part of the reason they're getting very worried and so that I think is driving more of a consensus within kind of the frontier AI companies that it is too fast currently.
 
 <a id="t-8-45"></a>
-## 8:45 · Selección de investigadores dentro de los laboratorios
+## 8:45 · Selection of researchers within labs
 
 **[8:45]** Can you describe a bit of the sociological dynamics that where you say that the the people at the companies are self- selected? The people at companies worry less because the people who are worried more leave and so there's there's an evaporative cooling effect where uh people are leaving uh kind of all of the labs to varying degrees because they are worried and sometimes they leave from one one lab to another and then they leave that lab too because they realize that it's sort of bad everywhere.
 
 **[9:11]** um the the race to super intelligence is not a good thing at any place we are we are exploring it right now um and then I think that evaporative cooling means that uh there's just slightly on the margin less concern um at these companies so I think people should read the people at companies expressing concern as being even more concerning than you than if a random AI researcher expressed this because again those are already selected for less worried folk on average but even those less worried folk are legit legitimately very worried uh and are are figuring out kind of how to take action as a result.
 
 <a id="t-9-49"></a>
-## 9:49 · Preocupación sincera y marketing
+## 9:49 · Sincere concern and marketing
 
 **[9:49]** How do you know that they're legitimately worried and that it's not like hype or marketing or a scam of some kind? I think there's two parts. So, one is I've just known them for years and they've been worried for years and so I think it's implausible that they're that that mindset is not kind of unless they're totally different people, I think they're still worried for for roughly the same reason. And then I think the other factor is it's not credible that saying your product will kill everyone with some decent probability that is not a marketing move.
 
@@ -115,7 +115,7 @@
 **[10:53]** Those are better marketing strategies. Yeah. I just know from personal experience and and working with these these these groups that they are they are sincere in their concerns. They do in fact believe that there these AI models could kill everyone.
 
 <a id="t-11-08"></a>
-## 11:08 · Pausas y coordinación
+## 11:08 · Pauses and coordination
 
 **[11:08]** Are there different versions of slowing down or there some you like more than others? There's kind of the the the the well thoughtout complicated plans for slowing down and there are the the simple thought experiments that are a piece of the story and kind of show that there are moves to to make. So I'll talk about I think it's more useful like about what are the simple arguments simple strategies. So one is that if you're at an AI lab training towards super intelligent AI and you think it might kill everyone, the rational move is to not do that is to stop unilaterally even if it is not as good as stopping in a fully coordinated fashion across all the labs and then all the all the labs across all the countries as well.
 
@@ -126,14 +126,14 @@
 **[12:38]** It's just find a neutral country, take the GPUs there. And I think the existence of that kind of simple measure I think should be an indication that if we think about it a lot more, if we think through the diplomacy and kind of the risks at play, we can find these solutions. I think
 
 <a id="t-12-57"></a>
-## 12:57 · Cooperación con China
+## 12:57 · Cooperation with China
 
 **[12:57]** what do you say to people who say we can't slow down because that would just seed control over the most powerful AIs to China? Well, we should definitely talk to China a lot. It's a diplomatic question. Um, and I think having unless we have run that strategy entirely to ground and really really tried to to make deals and treaties that work, I think we should not kind of give up there because I think it's just incredibly important.
 
 **[13:21]** And we have in the past worked together with adversaries on mutually extremely dangerous risks such as nuclear weapons. Um, and I think it is possible we have those conversations and they don't work, but we should first have the conversations and try to make them work as hard as we can. Um, as step one,
 
 <a id="t-13-44"></a>
-## 13:44 · Comparación con el riesgo nuclear
+## 13:44 · Comparison with nuclear risk
 
 **[13:44]** do you think AI is more dangerous than nuclear weapons? Uh, I don't think we know how dangerous nuclear weapons were. Uh, because there were a variety of close calls and we we might have just gotten lucky. In some sense, the answer is yes. AI is more dangerous because for two reasons. One is we've gotten through the last sort of like 70 years without uh large scale nuclear weapon nuclear war. This this is good evidence that we we've managed it through.
 
@@ -150,7 +150,7 @@
 **[16:32]** And similarly if AIs sort of take control over the economy or of the world they can just be they can sell services to AIs and then and form an entirely closed loop where we are just cut out of the picture. This is again even in the kind of the slow economic takeover case. It doesn't matter whether they count as a species or not. It's just like the you have a machine as both like the the ants but also the economy that is running and kind of like kind of self-sustaining by itself.
 
 <a id="t-17-02"></a>
-## 17:02 · Investigación automatizada y mejora recursiva
+## 17:02 · Automated research and recursive improvement
 
 **[17:02]** What is recursive self-improvement? So, right now the AI companies are starting to automate their work. So, you have like small coding speed ups where they're kind of they're they're handing off kind of larger and larger chunks of work to the machines. As the AIS get better, this will ramp up to more and more of the work of the AI companies are automated by the machines. And that will sort of gradually continually shift into a world where it's just AI doing research about how to improve AIs.
 
@@ -161,7 +161,7 @@
 **[18:32]** You can give them standardized tasks such than we have on safety where things are much less well defined. And so as you get into this recursive suburban era, which you're already starting to be in, the the relative speed up is makes it much worse because safety speeds up a little bit and capabilities speed up a lot.
 
 <a id="t-18-54"></a>
-## 18:54 · Medir capacidades y medir seguridad
+## 18:54 · Measuring capabilities and safety
 
 **[18:54]** Can you elaborate on that dynamic? Why is it harder to get safety? What? Yeah. Why why is safety less tractable or harder to do than capabilities? There's two factors for why uh it's easier to speed up uh capabilities than safety. One is that we have just more tests available for capabilities. We have all these math problems. We have like lots of data from people using the models. Um there just like the experimentation is easier.
 
@@ -186,7 +186,7 @@
 **[23:50]** So that sort of looks like a child trying to supervise the behavior of an adult. And I have children. You can just like you can tell when they're lying. You can lie to the children if you want and they don't notice it. you should you should not do that. Um this is like the capability balance just is way out of whack. Um and unless we really understand how to do that well um it it just goes all wrong or could go all wrong.
 
 <a id="t-24-14"></a>
-## 24:14 · Superinteligencia y persuasión
+## 24:14 · Superintelligence and persuasion
 
 **[24:14]** When you say super intelligence, what do you mean by super intelligence? I think there's the the simple thing is just better than humans at everything. Uh so better than uh initially sort of cognitive tasks. So things we can do on uh with a computer with sort of like with just pen and paper and reasoning and so and so on. And then once we have robots that all of that that happens a few years later.
 
@@ -207,7 +207,7 @@
 **[28:03]** The AC research also showed that like if you plotted persuasion capabilities against sort of model size or model capabilities and other other tasks there's a strong correlation. So as the models get stronger, they are getting much stronger at persuasion as well. And that I think we should expect to continue.
 
 <a id="t-28-20"></a>
-## 28:20 · Incentivos y actitudes dentro de la industria
+## 28:20 · Incentives and attitudes within the industry
 
 **[28:20]** So you have worked at like almost every major AI company, like perhaps more than any single person. I I you maybe know better than me, but I assume you have talked to many many people across the industry about these risks. Um how what's your perspective on how the industry relates to this? Do people share your concerns? Has it changed over time? What kind of attitude do people have when they talk about this?
 
@@ -224,7 +224,7 @@
 **[31:21]** And I think they they overstate the degree that they are in fact trapped in that pressure.
 
 <a id="t-31-28"></a>
-## 31:28 · Trabajar en capacidades o en seguridad
+## 31:28 · Working on capabilities or safety
 
 **[31:28]** A lot of people see AI employees expressing high levels of of risk that this might destroy the world and they wonder why don't those people just quit? Um, do do you think that that is in fact what those people should do? So certainly if they're working on capabilities, I think they should quit. I think this is this is fairly clear. If you're like if you're the one trying to make the model stronger, you should not be doing that.
 
@@ -235,7 +235,7 @@
 **[32:44]** I think the the the main term is like uh capabilities you should leave. Safety is is good but there are probably better things to do. And I think certainly there's a lot of diminishing return. So if you have a choice of being like the 300th person at a lab working on safety or like the first or the third person doing safety at some small nonprofit, um, you should probably do the thing that's less far along that that diminishing return curve.
 
 <a id="t-33-13"></a>
-## 33:13 · El programa de investigación de Resolution
+## 33:13 · The Resolution research program
 
 **[33:13]** Do you want to say a bit about what your current company does? What's the what's the mission? What are you trying to do? So Resolution is working on basically a bunch of approaches that if we they succeed can get us to higher confidence and alignment. So this is sort of saying well we we don't accept that the sort of the fairly few empirical approaches that AI labs are exploring are enough to get us to confidence.
 
@@ -248,14 +248,14 @@
 **[34:58]** I think if you are an engineer who wants to work on automation because we're going to try to use a bunch of resources to make that research go faster and we think automation can work very well in particular for theoretical alignment where there's kind of simpler ways of measuring success for kind of subtasks of alignment, not the whole thing. Um, and so that's the bulk of the thing we need is like researchers to help us.
 
 <a id="t-35-23"></a>
-## 35:23 · Automatizar alineamiento y sus posibles efectos
+## 35:23 · Automating alignment and its potential effects
 
 **[35:23]** Do you have concerns that by developing automated alignment researchers, you will in fact unlock new capabilities? the kind of automation we're working on is using existing models with extra scaffolding kind of understanding of our our our narrow research um to speed up our research as opposed to training new models or building kind of brand new automation techniques. So the AI models of today are already very good at automation of coding and simple machine learning experiments and kind of proving mathematical theorems and the bulk of what we're doing is kind of using that kind of initially and then kind of doing the best version of that using again tooling and kind of work design workflows and such.
 
 **[36:05]** So I think there is a risk there but I think it is like it is it's a small risk.
 
 <a id="t-36-11"></a>
-## 36:11 · Balance de su trayectoria
+## 36:11 · Reflections on his career
 
 **[36:11]** Uh do you regret working at the AI companies? I am not yet sure whether I should regret working at AI companies. I think the things that I did that were like very differentially on the capabilities front. So like I I started uh large model scaling in deep mind in part because I wanted to get tools that I could then use to do research on um on kind of safety of like like strengthened versions of human training for safety purposes.
 
@@ -266,7 +266,7 @@
 **[37:49]** And I had not kind of grappled with just how much work there is to do um on the theoretical side on kind of the scaled down empirical side that is extremely differential that the AL labs are not doing and I could have been doing that years before at a higher higher scale. Modulo I think I would have I was more of a nobody then it would have been harder to recruit. Um, but I think that that's the main gap is like like not noticing the the the availability of independent research to do and kind of more theoretical research to do.
 
 <a id="t-38-24"></a>
-## 38:24 · Investigación y medidas políticas
+## 38:24 · Research and policy measures
 
 **[38:24]** In addition to slowing down, what does the world need to do to address these risks? Slowing down will only buy us so much time. So, I think it's it's there's not a version of this that I think gets us to uh we have 20 years. When I kind of dream about maximum slowdowns, I'm thinking more 10 years, maybe 15 years, but like it seems very hard um before you get kind of full super intelligence because even if you were to like lock hardware progress uh and like hold it very low or even reverse it, the the efficiency of of models is increasing rapidly.
 
@@ -281,7 +281,7 @@
 **[41:00]** Uh that is a a kind of a long-term recipe for extinction um if we don't kind of have the machines on our side. And so I think there can be a lot of of controversy about whether to prioritize kind of one risk above another risk. And I think there's an underlying agreement that we should try very very str strenuously defined. Um where I think we we may have different priorities but they're all kind of secretly aligned if you look closely enough.
 
 <a id="t-41-28"></a>
-## 41:28 · Perspectiva personal y cierre
+## 41:28 · Personal perspective and closing thoughts
 
 **[41:28]** When you think about the whole AI situation, how do you feel? It's it is very bad. Um, but I think I again I'm less fatalistic than a lot of other people about the the the possibilities for sort of particular like political and regulatory and kind of international action. Um, and I that is I think in some sense coming from just believing in people a bit more than kind of the average AI researcher.
 
@@ -290,18 +290,18 @@
 **[42:25]** um like super intelligences that can do everything we can uh and better are like that's a risk in in a variety of ways to humans. And so I think the main thing is just like that's a common sense take. It is in fact the correct take. And then people will give a complicated variety of arguments about why that's wrong and and they're wrong.
 
 <a id="t-42-53"></a>
-## 42:53 · Cierre de Palisade
+## 42:53 · Palisade closing remarks
 
 **[42:53]** Thank you for watching. These videos are part of a series. My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch. We would love to include your perspective.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Las cifras, predicciones y recomendaciones siguen siendo declaraciones atribuidas al entrevistado; este trabajo no constituye una verificación de sus afirmaciones.
+The interview content was not translated, summarized, or substantively corrected. Figures, predictions, and recommendations remain statements attributed to the interviewee; this work does not verify their claims.
 
-- Nombre normalizado: `Jeffrey Irving` → `Geoffrey Irving` (1 aparición/es).
-- Nombre normalizado: `Paliside Research` → `Palisade Research` (1 aparición/es).
-- Nombre normalizado: `Eli Ty.` → `Eli Tyre.` (1 aparición/es).
+- Normalized name: `Jeffrey Irving` → `Geoffrey Irving` (1 occurrence(s)).
+- Normalized name: `Paliside Research` → `Palisade Research` (1 occurrence(s)).
+- Normalized name: `Eli Ty.` → `Eli Tyre.` (1 occurrence(s)).
 
-Los demás errores aparentes de subtitulado se conservan para evitar reconstruir palabras que no se han comprobado en el audio. Los timestamps de cada párrafo remiten al subtítulo donde comienza su texto; las marcas individuales se conservan en el TXT original.
+Other apparent subtitle errors are retained to avoid reconstructing words that have not been checked against the audio. Each paragraph timestamp points to the subtitle where its text begins; individual timestamps are preserved in the original TXT source, which is not included in this repository.

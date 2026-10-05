@@ -1,48 +1,48 @@
-# Andreas Kirsch — entrevista de Palisade
+# Andreas Kirsch — Palisade interview
 
-- **Archivo recibido:** [kirsch.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/kirsch.txt)
-- **Cobertura del texto:** 0:00–27:57 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
-- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/kirsch.md).
+- **Source file received:** `kirsch.txt` (not included in this repository).
+- **Text coverage:** 0:00–27:57 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
+- **Text only:** [version without timestamps, contents, or notes](text-only/kirsch.md).
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:39 · Trayectoria y declaración personal](#t-0-39)
-- [0:52 · Beneficios y riesgos de la IA](#t-0-52)
-- [6:03 · Plazos de los riesgos](#t-6-03)
-- [6:53 · Cambio de perspectiva sobre los plazos](#t-6-53)
-- [10:34 · Pacing the frontier y coordinación](#t-10-34)
-- [16:13 · Mejora recursiva](#t-16-13)
-- [19:25 · Superinteligencia](#t-19-25)
-- [20:09 · Mensaje a responsables de políticas](#t-20-09)
-- [21:34 · Beneficios que no requieren superinteligencia](#t-21-34)
-- [23:37 · Perspectiva personal](#t-23-37)
-- [24:41 · Permanecer, renunciar y hablar públicamente](#t-24-41)
-- [27:43 · Cierre de Palisade](#t-27-43)
+- [0:00 · Opening](#t-0-00)
+- [0:39 · Background and personal statement](#t-0-39)
+- [0:52 · Benefits and risks of AI](#t-0-52)
+- [6:03 · Risk timelines](#t-6-03)
+- [6:53 · Changing views on timelines](#t-6-53)
+- [10:34 · Pacing the frontier and coordination](#t-10-34)
+- [16:13 · Recursive improvement](#t-16-13)
+- [19:25 · Superintelligence](#t-19-25)
+- [20:09 · Message to policymakers](#t-20-09)
+- [21:34 · Benefits that do not require superintelligence](#t-21-34)
+- [23:37 · Personal perspective](#t-23-37)
+- [24:41 · Staying, resigning, and speaking publicly](#t-24-41)
+- [27:43 · Palisade closing remarks](#t-27-43)
 
-## Pasajes para revisar antes de citar
+## Passages to review before quoting
 
-| Tiempo | Texto o tema | Revisión pendiente |
+| Time | Text or topic | Review needed |
 | --- | --- | --- |
-| 8:04 | “Ray Cordzwell” | Posible nombre mal transcrito; verificar la referencia antes de citar. |
+| 8:04 | “Ray Cordzwell” | Possibly mistranscribed name; verify the reference before quoting. |
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** So I mean I guess there is um extinction risks and also catastrophic risks. I sort of knew about these risks but a lot of them still seemed a little bit absurd or maybe exaggerated like a theoretical exercise in a way. A lot of it sounded like science fiction and now I take them I started taking them much more seriously. AI progresses on an exponential curve essentially. We're mostly used to sort of like linear progress. So it's really hard to actually properly understand [music] and um and act according according to what is happening.
 
 <a id="t-0-39"></a>
-## 0:39 · Trayectoria y declaración personal
+## 0:39 · Background and personal statement
 
 **[0:39]** My name is Andreas Kirsch. I've been working at Google DeepMind as a senior research scientist um speaking in personal capacity here and not on behalf or Google of Google or Google DeepMind.
 
 <a id="t-0-52"></a>
-## 0:52 · Beneficios y riesgos de la IA
+## 0:52 · Benefits and risks of AI
 
 **[0:52]** The most important thing for the public to understand is that AI can have tremendous benefits for humanity. Um but at the same time we also have to be very careful um with the risks that we might that we will face in the next months, years and decades. The risks I'm most concerned about actually there is many risks. I'm both concerned about um near-term, medium-term, and long-term risks. And in the near-term, I'm concerned about bio- risk in particular when um humans might abuse or misuse AI.
 
@@ -63,14 +63,14 @@
 **[5:59]** Uh because we are pushing the frontier.
 
 <a id="t-6-03"></a>
-## 6:03 · Plazos de los riesgos
+## 6:03 · Risk timelines
 
 **[6:03]** Can you just give some sense of what you mean by near-term, medium-term and long-term when I think about risks and and uh and I talk about near-term risks. I think I I talk about risks that for in the next few years like starting from 6 months on to a few years um midterm risks from like a year or two in the future. There's some overlap um to like 5 years, six, seven years. And then long-term risk starting from like like six, seven years, like a decade.
 
 **[6:41]** Um, so I think it's actually a very uh compressed timeline um that I'm I'm actually considering here, especially compared to maybe what my timeline was um like 10 years ago.
 
 <a id="t-6-53"></a>
-## 6:53 · Cambio de perspectiva sobre los plazos
+## 6:53 · Changing views on timelines
 
 **[6:53]** Actually, can you say a little bit more about that?
 
@@ -91,7 +91,7 @@
 **[10:21]** So it's really hard to actually properly understand and um and act according according to what is happening.
 
 <a id="t-10-34"></a>
-## 10:34 · Pacing the frontier y coordinación
+## 10:34 · Pacing the frontier and coordination
 
 **[10:34]** So some AI company employees have recently called for pacing the frontier. What is pacing the frontier and is that something that you support?
 
@@ -120,7 +120,7 @@
 **[15:54]** Um but it is definitely in the realm of the possible and I think we have to take this really serious um because we we want to avoid that because um the con the downstream consequences of that are very hard to imagine and I don't think we actually want to to get there.
 
 <a id="t-16-13"></a>
-## 16:13 · Mejora recursiva
+## 16:13 · Recursive improvement
 
 **[16:13]** What is recursive self-improvement?
 
@@ -135,14 +135,14 @@
 **[18:44]** Um I think if we look I mean if we look at how people can use uh frontier models already to speed up their work. Um I think it's incredibly plausible that we'll be there very very soon. Um obviously again there is a wide spectrum of capabilities. Um, but I definitely feel that when I use current Frontier models, they're um probably already better than I they're way better than I was as an undergrad. And I I'm not going to judge if they're sort of uh graduate student level or PhD level now, but it's definitely already um I mean definitely already feels that way.
 
 <a id="t-19-25"></a>
-## 19:25 · Superinteligencia
+## 19:25 · Superintelligence
 
 **[19:25]** Can you tell me what super intelligence is and is super intelligence a is that something that the AI companies might actually build?
 
 **[19:37]** um super intelligence or like artificial super intelligence ASI is the idea that once we have um artificial general intelligence AGI like we have a very good AI model um this AI model can then go and improve itself to the point that this final model the super intelligence is smarter than any other human that any other being on this planet. on any possible task. Essentially,
 
 <a id="t-20-09"></a>
-## 20:09 · Mensaje a responsables de políticas
+## 20:09 · Message to policymakers
 
 **[20:09]** there are currently policy makers who are like especially in these this week introducing and debating legislation. If you were talking directly to those policy makers, is there anything that you would want them to know?
 
@@ -151,7 +151,7 @@
 **[21:08]** And I think the important thing is not to throw the baby out with the bath water. um if that's the saying, but um still to take everything seriously and come up with a with frameworks that will protect us from these really bad outcomes that seem plausible and possible in the near and medium and long-term future.
 
 <a id="t-21-34"></a>
-## 21:34 · Beneficios que no requieren superinteligencia
+## 21:34 · Benefits that do not require superintelligence
 
 **[21:34]** Do you want to say a little bit more about what the benefits are or what the benefits might look like?
 
@@ -164,7 +164,7 @@
 **[23:22]** So I think it's just about how can we how can we actually slow down and then also you know stop before super intelligence because do we actually need that to reap all the other benefits
 
 <a id="t-23-37"></a>
-## 23:37 · Perspectiva personal
+## 23:37 · Personal perspective
 
 **[23:37]** when you think about this whole AI situation?
 
@@ -173,7 +173,7 @@
 **[23:43]** I feel um quite anxious and worried about uh where things are headed um or are heading in um AI right now. Um and um I spend a lot more time thinking about um [clears throat] yeah the the potential negative outcomes um and um sort of the risks uh that might like what might happen in in the next in the next year in the next years um and uh yeah I'm quite uh quite concerned and quite worried Um because so far I've seen that it's been very difficult to uh like to to achieve the the kind of coordination that is um that will be necessary um to avoid bad outcomes.
 
 <a id="t-24-41"></a>
-## 24:41 · Permanecer, renunciar y hablar públicamente
+## 24:41 · Staying, resigning, and speaking publicly
 
 **[24:41]** Sometimes people ask if the people at these AI companies are so concerned about these risks, why don't they just quit?
 
@@ -190,17 +190,17 @@
 **[27:14]** Um, so I think it's very important uh to think about that because right now we're in a in a time window where speaking up and um asking for change and uh you know ask uh doing AI safety research has probably the biggest possible impact.
 
 <a id="t-27-43"></a>
-## 27:43 · Cierre de Palisade
+## 27:43 · Palisade closing remarks
 
 **[27:43]** My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch. We would love to include your perspective.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+The interview content was not translated, summarized, or substantively corrected. Name normalizations are explicitly documented; other possible subtitle errors are retained pending comparison with the audio. Claims remain attributed to the interviewee and were not verified in this edition.
 
-- Nombre normalizado: `Andreas Kirish` → `Andreas Kirsch` (1 aparición/es).
-- Nombre normalizado: `Eli Tyer` → `Eli Tyre` (1 aparición/es).
+- Normalized name: `Andreas Kirish` → `Andreas Kirsch` (1 occurrence(s)).
+- Normalized name: `Eli Tyer` → `Eli Tyre` (1 occurrence(s)).
 
-Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
+Each timestamp points to the subtitle where the paragraph or section begins; it may overlap with the end of the preceding sentence. Individual timestamps and the received text are preserved in the original source file, which is not included in this repository.

@@ -1,44 +1,44 @@
-# Rosie Campbell — entrevista de Palisade
+# Rosie Campbell — Palisade interview
 
-- **Archivo recibido:** [campbell.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/campbell.txt)
-- **Cobertura del texto:** 0:00–18:43 (última marca disponible; no duración verificada).
-- **Fecha y enlace al video:** no incluidos en el archivo recibido.
-- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
-- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
-- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/campbell.md).
+- **Source file received:** `campbell.txt` (not included in this repository).
+- **Text coverage:** 0:00–18:43 (last available timestamp; not a verified duration).
+- **Video date and link:** not included in the received file.
+- **Status:** transcript with subtitle timestamps; not checked against the audio.
+- **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
+- **Text only:** [version without timestamps, contents, or notes](text-only/campbell.md).
 
-## Contenido
+## Contents
 
-- [0:00 · Apertura](#t-0-00)
-- [0:25 · Trayectoria en OpenAI](#t-0-25)
-- [0:44 · Capacidades actuales y límites de comprensión](#t-0-44)
-- [2:03 · Riesgo de extinción y cambio de perspectiva](#t-2-03)
-- [4:33 · Pacing the frontier y beneficios de la IA](#t-4-33)
-- [8:02 · Mejora recursiva](#t-8-02)
-- [9:56 · Superinteligencia](#t-9-56)
-- [11:23 · Cultura interna y salida de investigadores](#t-11-23)
-- [13:48 · Recomendaciones de política](#t-13-48)
-- [15:32 · Posibles efectos contraproducentes de las evaluaciones](#t-15-32)
-- [16:47 · Perspectiva personal](#t-16-47)
-- [17:44 · Mensaje al público](#t-17-44)
-- [18:27 · Cierre de Palisade](#t-18-27)
+- [0:00 · Opening](#t-0-00)
+- [0:25 · Background at OpenAI](#t-0-25)
+- [0:44 · Current capabilities and limits of understanding](#t-0-44)
+- [2:03 · Extinction risk and changing perspectives](#t-2-03)
+- [4:33 · Pacing the frontier and the benefits of AI](#t-4-33)
+- [8:02 · Recursive improvement](#t-8-02)
+- [9:56 · Superintelligence](#t-9-56)
+- [11:23 · Internal culture and researcher departures](#t-11-23)
+- [13:48 · Policy recommendations](#t-13-48)
+- [15:32 · Potential counterproductive effects of evaluations](#t-15-32)
+- [16:47 · Personal perspective](#t-16-47)
+- [17:44 · Message to the public](#t-17-44)
+- [18:27 · Palisade closing remarks](#t-18-27)
 
 <!-- TRANSCRIPT START -->
 
 <a id="t-0-00"></a>
-## 0:00 · Apertura
+## 0:00 · Opening
 
 **[0:00]** The organization changed a lot. There was a lot more pressure to move fast. The people who had been very motivated by these big picture safety concerns started leaving. And I would get these kind of waves of fear of, you know, are we going to be able to navigate this safely?
 
 **[0:16]** It just seems crazy.
 
 <a id="t-0-25"></a>
-## 0:25 · Trayectoria en OpenAI
+## 0:25 · Background at OpenAI
 
 **[0:25]** I'm Rosie Campbell. I worked at OpenAI from around mid 2021 till late 2024. I initially joined on the applied side of the organization working on API safety and then I moved over and worked on policy research where I contributed to frontier policy issues like dangerous capability evaluations.
 
 <a id="t-0-44"></a>
-## 0:44 · Capacidades actuales y límites de comprensión
+## 0:44 · Current capabilities and limits of understanding
 
 **[0:44]** I think one thing that many people don't realize is that AI systems are grown rather than built. And that means that many of the people, even those that are building these systems themselves, don't really understand how they work on the inside. And a lot of people, I think, vastly underestimate the capabilities of current AI systems because they've maybe only interacted with the free version of Chat GPT or Claude. In fact, the case is that even current systems today are very very powerful in a variety of ways.
 
@@ -51,7 +51,7 @@
 **[1:59]** I think you could argue that this means that Claude took somebody's job.
 
 <a id="t-2-03"></a>
-## 2:03 · Riesgo de extinción y cambio de perspectiva
+## 2:03 · Extinction risk and changing perspectives
 
 **[2:03]** Some people believe that AI development might lead to the literal extinction of humanity. Do you think that's realistic?
 
@@ -70,7 +70,7 @@
 **[4:27]** Uh these concerns just feel much more immediate and urgent.
 
 <a id="t-4-33"></a>
-## 4:33 · Pacing the frontier y beneficios de la IA
+## 4:33 · Pacing the frontier and the benefits of AI
 
 **[4:33]** So many employees of the AI companies are advocating for pacing the frontier. What does pacing the frontier mean and do you advocate for that?
 
@@ -89,7 +89,7 @@
 **[7:38]** Um I know that the sensible safe thing to do is to pace the frontier, to pause, slow down, whatever is needed. But there's just part of me that wants the benefits as fast as I can get them even at that risk. But overall, I think given the current situation we're in, pacing the frontier is the best chance we've got.
 
 <a id="t-8-02"></a>
-## 8:02 · Mejora recursiva
+## 8:02 · Recursive improvement
 
 **[8:02]** What is recursive self-improvement?
 
@@ -106,7 +106,7 @@
 **[9:35]** From a perspective of developing AI capabilities, recursive self-improvement is great. It can move a lot faster. But from the perspective of wanting to make sure that humans remain in control of their technology and that it's developed safely, it seems pretty scary.
 
 <a id="t-9-56"></a>
-## 9:56 · Superinteligencia
+## 9:56 · Superintelligence
 
 **[9:56]** What is super intelligence?
 
@@ -119,7 +119,7 @@
 **[11:20]** It just seems crazy.
 
 <a id="t-11-23"></a>
-## 11:23 · Cultura interna y salida de investigadores
+## 11:23 · Internal culture and researcher departures
 
 **[11:23]** Did you talk about these kinds of ideas, these these risks with your co-workers when you're at OpenAI?
 
@@ -136,7 +136,7 @@
 **[13:19]** AI, the whole point of it is is very general and so it's augmenting you in many different ways and slowly it's going to potentially out compete humans in every cognitive task. On top of that, as we talked about with recursive self-improvement, AI systems can inform and contribute to the next version of themselves. And that's not something that usually happens with just any old tech product.
 
 <a id="t-13-48"></a>
-## 13:48 · Recomendaciones de política
+## 13:48 · Policy recommendations
 
 **[13:48]** There are currently policy makers right now who are debating and introducing legislation about AI. If you were in the room with those policy makers, is there something that you would want them to know or to understand?
 
@@ -147,7 +147,7 @@
 **[15:14]** The other worry I have is the machinery of politics takes a long time and given the rate of progress and the speed at which these AI companies are moving, I don't know if things are going to move fast enough in policy.
 
 <a id="t-15-32"></a>
-## 15:32 · Posibles efectos contraproducentes de las evaluaciones
+## 15:32 · Potential counterproductive effects of evaluations
 
 **[15:32]** Can you tell us a little bit or give specific examples of backfire risks that you're concerned about?
 
@@ -156,7 +156,7 @@
 **[16:13]** There are a bunch of ways in which the evaluations can't be comprehensive enough. There are ways in which the models can get smart enough to hide their capabilities and make it look like they're less capable than they are. And currently we don't really have any good ways of detecting that kind of thing. I do think overall having something like dangerous capability evaluations is better than having literally nothing at all. But I just want people to see this as one piece of the puzzle and there are many other problems, many other approaches that we need to have in place in order to be actually secure here.
 
 <a id="t-16-47"></a>
-## 16:47 · Perspectiva personal
+## 16:47 · Personal perspective
 
 **[16:47]** When you think about this whole AI situation, how do you feel?
 
@@ -165,7 +165,7 @@
 **[17:37]** And so there's part of me now that is feeling pretty optimistic and positive about uh our ability to solve this problem.
 
 <a id="t-17-44"></a>
-## 17:44 · Mensaje al público
+## 17:44 · Message to the public
 
 **[17:44]** Is there anything else that you want to say to the public?
 
@@ -174,17 +174,17 @@
 **[18:19]** It feels within our grasp.
 
 <a id="t-18-27"></a>
-## 18:27 · Cierre de Palisade
+## 18:27 · Palisade closing remarks
 
 **[18:27]** Thank you for watching. These videos are part of a series. My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch.
 
 <!-- TRANSCRIPT END -->
 
-## Nota de edición
+## Editorial note
 
-No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+The interview content was not translated, summarized, or substantively corrected. Name normalizations are explicitly documented; other possible subtitle errors are retained pending comparison with the audio. Claims remain attributed to the interviewee and were not verified in this edition.
 
-- Nombre normalizado: `Eli Ty.` → `Eli Tyre.` (1 aparición/es).
-- Nombre normalizado: `Paliside Research` → `Palisade Research` (1 aparición/es).
+- Normalized name: `Eli Ty.` → `Eli Tyre.` (1 occurrence(s)).
+- Normalized name: `Paliside Research` → `Palisade Research` (1 occurrence(s)).
 
-Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
+Each timestamp points to the subtitle where the paragraph or section begins; it may overlap with the end of the preceding sentence. Individual timestamps and the received text are preserved in the original source file, which is not included in this repository.
