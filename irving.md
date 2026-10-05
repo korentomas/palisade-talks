@@ -2,7 +2,10 @@
 
 - **Source file received:** `irving.txt` (not included in this repository).
 - **Text coverage:** 0:00–43:10 (last available timestamp; not a verified duration).
-- **Video date and link:** not included in the received file.
+- **Interview publisher:** [Palisade Research](https://www.youtube.com/@PalisadeResearch) · [Channel videos](https://www.youtube.com/@PalisadeResearch/videos).
+- **Original interview:** [Watch on YouTube](https://www.youtube.com/watch?v=nYiD6r4RvV8).
+- **Link provenance:** matched by interviewee and description in the [LLM Bento Palisade Research directory](https://www.llm-bento.com/channels/palisade-research); not checked against the video or audio.
+- **Publication date:** not independently verified.
 - **Status:** transcript with subtitle timestamps; not checked against the audio.
 - **Editing:** paragraphs and thematic headings added; names normalized as documented in the editorial note. Words, repetitions, and claims from the received text are preserved. Headings are editorial, not taken from the video.
 
