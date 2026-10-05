@@ -1,0 +1,100 @@
+[
+  {
+    "file": "irving",
+    "source_sha256": "c12b336ef24521383f6964bfcd24311dc7fbd8f2275cddfcac18adbd78ec23a3",
+    "caption_blocks": 1151,
+    "words": 8013,
+    "sections": 22,
+    "paragraphs": 92,
+    "largest_paragraph_words": 147,
+    "changes": [
+      {
+        "original": "Jeffrey Irving",
+        "normalized": "Geoffrey Irving",
+        "count": 1
+      },
+      {
+        "original": "Paliside Research",
+        "normalized": "Palisade Research",
+        "count": 1
+      },
+      {
+        "original": "Eli Ty.",
+        "normalized": "Eli Tyre.",
+        "count": 1
+      }
+    ],
+    "content_preserved_except_logged_names": true
+  },
+  {
+    "file": "nanda",
+    "source_sha256": "43b953e90e0319ec4ea9f61493c139f9e2a91dbad204d4999be336e2214cf444",
+    "caption_blocks": 949,
+    "words": 6490,
+    "sections": 18,
+    "paragraphs": 79,
+    "largest_paragraph_words": 118,
+    "changes": [
+      {
+        "original": "Hi, I'm Neil.",
+        "normalized": "Hi, I'm Neel.",
+        "count": 1
+      },
+      {
+        "original": "Eli Ty.",
+        "normalized": "Eli Tyre.",
+        "count": 1
+      }
+    ],
+    "content_preserved_except_logged_names": true
+  },
+  {
+    "file": "schlatter",
+    "source_sha256": "e6f60b60e16de28050af2c9fa9ea95a14724f96b7423430f21cbc486bbc8d828",
+    "caption_blocks": 229,
+    "words": 1380,
+    "sections": 11,
+    "paragraphs": 20,
+    "largest_paragraph_words": 114,
+    "changes": [
+      {
+        "original": "My name is Jeremy Schlott",
+        "normalized": "My name is Jeremy Schlatter",
+        "count": 1
+      },
+      {
+        "original": "Paliside Research",
+        "normalized": "Palisade Research",
+        "count": 1
+      },
+      {
+        "original": "Eli Ty.",
+        "normalized": "Eli Tyre.",
+        "count": 1
+      }
+    ],
+    "content_preserved_except_logged_names": true
+  },
+  {
+    "file": "kokotajlo",
+    "source_sha256": "bb9cce59a1edd85a013201eef2973059a864aa7f823ff49b5177821a1f5b7291",
+    "caption_blocks": 297,
+    "words": 2064,
+    "sections": 10,
+    "paragraphs": 24,
+    "largest_paragraph_words": 142,
+    "changes": [
+      {
+        "original": "My name is Daniel Cocatello",
+        "normalized": "My name is Daniel Kokotajlo",
+        "count": 1
+      },
+      {
+        "original": "Eli Ty.",
+        "normalized": "Eli Tyre.",
+        "count": 1
+      }
+    ],
+    "content_preserved_except_logged_names": true
+  }
+]

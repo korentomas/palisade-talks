@@ -1,0 +1,173 @@
+# Victoria Krakovna — entrevista de Palisade
+
+- **Archivo recibido:** [krakovna.txt](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/krakovna.txt)
+- **Cobertura del texto:** 0:00–22:15 (última marca disponible; no duración verificada).
+- **Fecha y enlace al video:** no incluidos en el archivo recibido.
+- **Estado:** transcripción con marcas de subtítulos; no cotejada con audio.
+- **Edición:** párrafos y títulos temáticos añadidos. Los títulos son editoriales. Se conservan las palabras, repeticiones y afirmaciones, salvo los nombres normalizados al final.
+- **Solo contenido:** [versión sin timestamps, índice ni notas](/Users/tk/Documents/Codex/2026-09-08/what-happened-relevant-to-ai-safety/charla-unsam/transcripciones/solo-texto/krakovna.md).
+
+## Contenido
+
+- [0:00 · Apertura](#t-0-00)
+- [0:41 · Trayectoria y declaración personal](#t-0-41)
+- [1:12 · Progreso de capacidades](#t-1-12)
+- [3:13 · Riesgo de extinción](#t-3-13)
+- [7:26 · Competencia por recursos](#t-7-26)
+- [9:12 · Objetivos instrumentales y monitoreo](#t-9-12)
+- [11:23 · Pérdida de poder humano y otros riesgos](#t-11-23)
+- [12:28 · Coordinación y ritmo de desarrollo](#t-12-28)
+- [14:57 · Auditorías, transparencia y propuestas](#t-14-57)
+- [17:09 · Actitudes entre colegas e interpretación de los incidentes](#t-17-09)
+- [20:34 · Futuro y familia](#t-20-34)
+- [22:01 · Cierre de Palisade](#t-22-01)
+
+## Pasajes para revisar antes de citar
+
+| Tiempo | Texto o tema | Revisión pendiente |
+| --- | --- | --- |
+| 9:43–9:46 | “the basic AI drives by Omahandra from 2008” | Comprobar autor y referencia antes de citar; se conserva la grafía recibida. |
+
+<!-- TRANSCRIPT START -->
+
+<a id="t-0-00"></a>
+## 0:00 · Apertura
+
+**[0:00]** But I'm just thinking about this from an analogy with humans like humans are more more capable than than other animals on this planet and we have covered the planet in things that humans need kind of at the expense on of things that other animals need and we have driven a lot of other species to extinction if I by analogy to kind of what AI might need like we need a lot of data centers. So so I think there is a significant possibility that AI development could lead to human extinction.
+
+**[0:27]** Um, and this is something that like is one of the underlying concerns for my work. This is why I got into this field.
+
+<a id="t-0-41"></a>
+## 0:41 · Trayectoria y declaración personal
+
+**[0:41]** I'm Victoria Krakovna. I'm a research scientist at Google DeepMind and the AGI safety team and I've worked here for almost 10 years. I work on AGI safety in particular kind of evaluating models for misalignment and trying to detect if any models are scheming or pursuing instrumental goals that uh you know that are undesirable. I'm definitely speaking here in a personal capacity. These are my personal views that don't represent my employer in any way.
+
+<a id="t-1-12"></a>
+## 1:12 · Progreso de capacidades
+
+**[1:12]** First of all, AI capabilities are advancing quite quickly. And if your impressions of how good AI is and what what it can do are based on AI from one or two years ago or they're based on kind of interacting with, you know, models that are available for free. uh then like you probably don't have an accurate sense of how capable those models actually are. Like recently AI has solved a lot of kind of long-standing like open problems in mathematics for example and yeah things are things are happening very fast.
+
+**[1:55]** Um, and there's no particular reason why why this would slow down. And it's just like, yeah, I would like the public to kind of understand that it's yeah, this is likely to have like a large impact on the world even if like the capabilities of AI don't advance much further, but also there's no particular reason that they wouldn't advance much further. Um, so basically this is yeah, uh, this is a big deal. I don't think this is a bubble.
+
+**[2:29]** This is not a drill. This, yeah, this is something that's probably going to affect your life. You expect AI capabilities to advance much further?
+
+**[2:40]** I do expect AI capabilities to continue advancing. Um I think there are uh [snorts] yeah there are already kind of uh a lot of domains where where AI can like u perform like you say similarly to humans and yeah the AI companies are putting a lot of resources um into advancing AI capabilities. So absent regulation or coordination on slowing this down I think it will continue advancing quite quickly.
+
+<a id="t-3-13"></a>
+## 3:13 · Riesgo de extinción
+
+**[3:13]** Some people think that AI development will lead to the literal human extinction, the literal extinction of humanity. Do you think that?
+
+**[3:24]** So I think there is a significant possibility that AI development could lead to human extinction. Um, and this is something that like is one of the underlying concerns for my work. This is why I got into this field, you know, 10 years ago. Back then this was more of a kind of theoretical or long-term concern. Now it's feels like more of a short-term concern. Um like we already seeing kind of instances of agents that are kind of breaking out of their constraints and doing harm in the real world like the u you know the incident with OpenAI agents hacking hugging face.
+
+**[4:05]** Um and this is yeah um you could say this is kind of an early warning of what is to come much yeah I think much much worse things are possible as um as AI systems become more powerful. [sighs] So yeah um there are there are various reasons to to expect that this yeah this this could go quite badly. capabilities are advancing quickly but our ability to kind of align and control those systems is not keeping pace with that.
+
+**[4:41]** There are kind of difficult open problems in alignment and we need more time to solve those problems than I expect we have. I think there are open problems like uh how to set good incentives for AI systems, how to make sure that they actually kind of that they actually do what we what we want them to do. It's it's hard to get this right and easy to get this wrong. Uh and right now a lot of the uh like we often see that like when AI systems are trained then they're often kind of inadvertently given um bad incentives during training.
+
+**[5:19]** Like for example, some of the um training environments are kind of miscalibrated or they're impossible and then the these agents are encouraged to learn to cheat um rather than kind of doing what we want. And I have yeah I've been kind of collecting examples of what I call specification gaming when um AIS uh sort of find some unintended shortcuts um or kind of satisfy the reward function with specification in some unintended way and I think I have maybe like 90 examples of this u and more recently they're kind of you know more of these keep coming in like you know the hugging face hacking incident is an example of specification gaming as Well, this time with kind of real world consequences.
+
+**[6:06]** This is a problem that does not get easier as AI systems become more capable. It becomes harder because like more advanced systems can better optimize for the wrong thing. Something that we can expect kind of advanced AI systems to to have is what we call instrumental goals. like generally it's it's useful to [snorts] um you know for the system to preserve itself to acquire resources to to to seek power and these sorts of things. The this is a property that's common to any kind of goal- directed entity.
+
+**[6:38]** So for example corporations have have an incentive to preserve themselves and acquire resources. Uh so it doesn't have to be like sensient or conscious or anything like that to have these instrumental goals and this can lead to um this can lead to AI uh kind of pursuing those instrumental goals and in a way that is like at odds with with human interests and you know potentially incompatible with with human survival. If you have kind of powerful AI sort of controlling the planet like maybe it will kind of you know cover the surf surface of the planet in data centers because it has you know it needs more and more data centers to kind of do whatever it is doing.
+
+<a id="t-7-26"></a>
+## 7:26 · Competencia por recursos
+
+**[7:26]** Does that seem like a realistic possibility to you that the AI will cover the planet in data centers?
+
+**[7:29]** Um so I'm not sure whether this exact scenario is uh very plausible. I think like you know if if much more advanced AI systems are developed we you know I think we won't be able to predict necessarily predict very well what exactly they're going to do. Uh but I'm just thinking about this from an analogy with humans like humans are more you know more intelligent or like you could say more capable than than other animals on this planet and we have covered the planet in things that humans need kind of at the expense on of things that other animals need and we have driven a lot of other species to extinction.
+
+**[8:03]** Um and this is not necessarily like intentional. Um it's just you know [snorts] we need we need those resources and we want to you know build whatever do our agriculture or build houses or whatever and we kind of cover the planet in that. And then if I by analogy to kind of what an AI might need like if it wants to kind of build a lot of copies of itself or do a lot more computation we need a lot of data centers.
+
+**[8:35]** So uh I think the overall concern is that like if we become a second species, if we are no longer kind of in control of the planet, then like the AI is just kind of using the resources for its own purposes that are kind of you know not necessarily good for us and probably by default would not be good. I mean this could be like catastrophic risk rather than existential. maybe some small [snorts] number of humans will survive somewhere, but I feel like you know it's uh like it doesn't make such a big difference to me like I think yeah we just we really don't want to kind of lose control to these you know powerful entities that are not aligned with our our values and interests.
+
+<a id="t-9-12"></a>
+## 9:12 · Objetivos instrumentales y monitoreo
+
+**[9:12]** We have already seen kind of agents pursuing instrumental goals. Uh, for example, like the way that the agents that were hacking, hugging face kind of coordinating on kind of figuring out how to get internet access like internet access is kind of an affordance capability that is, you know, you could say like a form of, you know, resource seeking or power seeking that like gives them the ability to do lots of other things. And like the idea of instrumental goals is quite old.
+
+**[9:39]** Uh this dates back to the paper on the basic AI drives by Omahandra from 2008. Um and this is something that like we have been expecting to see for a while but now it's actually happening in real life. I think with this incident we are lucky that these agents were not being very stealthy. They were trying to like fool the greater but they were not trying to kind of hide their kind of deceptive and misaligned behavior from humans.
+
+**[10:05]** So there's a lot of, you know, um there's a lot of evidence of what they were doing. Uh mostly like yeah, they didn't get caught because, you know, there wasn't a lot of monitoring in place. Uh but in the future like we expect that like more competent misaligned agents would be much better at covering their tracks and hiding their deceptive behavior and then actually it would be harder to detect. So uh yeah, we really need to kind of make the most of these kind of examples that we have now.
+
+**[10:31]** Um and currently like we have agents with monotrable chain of thought. Uh we can look at this incident and there's a lot of transcripts about like how you know how these agents were reasoning about their situation. Um and yeah this is also something that might not hold up with future future models already with the kind of the recent Astro model from open AAI. there's been some analysis that it's uh yeah uh it's harder to monitor and that gets chain of thought is less legible and this is like this is a really valuable resource like in kind of alignment evalation work and like in monitoring and yeah I rely on legible chain of thought a lot in my work so like yeah I think one thing that you know I would really like the field to coordinate on is like let's not lose this property it's really important um yeah just to just put that out there
+
+<a id="t-11-23"></a>
+## 11:23 · Pérdida de poder humano y otros riesgos
+
+**[11:23]** is human extinction the main bad outcome that you are thinking about or are there other kinds of ways this could go badly?
+
+**[11:33]** So, um yeah, human extinction is not the the only bad outcome I I worry about. I I mean I worry about kind of catastrophic risks like where you know losing control of AI could lead to kind of other bad outcomes like you know nuclear war like you know kind of precipitate other catastrophic risks. Yeah, I definitely worry about kind of gradual disempowerment or kind of risks from the concentration of power potentially like enabling, you know, powerful AI enabling dictatorships.
+
+**[12:05]** Um I yeah uh I think gradual disempowerment overall looks more likely than extin extinction. is still like I mean of course it's not it's not as bad but it still kind of you know could go in that direction eventually if once again humans are are no longer in control.
+
+<a id="t-12-28"></a>
+## 12:28 · Coordinación y ritmo de desarrollo
+
+**[12:28]** What does the world need to do to properly manage this transition?
+
+**[12:32]** The first thing that comes to mind is that like uh currently different companies in different countries are kind of locked in a race towards more and more capable AI and I think that has to yeah I think this has to stop. uh and yeah so I think we need like they need to be uh regulations and international agreements that kind of u set out kind of what kind of pace of development is acceptable uh and set kind of you know safety standards and institutional controls.
+
+**[13:10]** Some people are proposing to kind of pause their development for some time. Uh people are proposing kind of auditing regimes and uh kind of having like embedded auditors within within companies who kind of monitor development and like enforce safety standards. Uh there are some proposals for like you know what is a kind of level of monitor that you know these systems should have. Um and uh yeah what kind of you know evaluations we need to do to kind of to get some you know some confidence that these systems are not misaligned.
+
+**[13:52]** I sympathize with a lot of these proposals. I think um I think it would be good to like to significantly slow down for a while while like we both do kind of more technical work on on alignment and also figure out kind of what what kind of safety standards would be enough. But also right now like this these things are not reliable enough. um like for example uh like it doesn't seem like um these kind of like um evalations were sufficient to rule out the hacking hugging face hacking incident.
+
+**[14:31]** So like there's a lot of um yeah there's a lot of work in the space that is kind of still ongoing like I think our yeah our kind of safety and evolation methodology is kind of yeah need needs needs time to kind of needs time to be be tested and to become more mature. Um and in this kind of race regime there there just isn't enough time to do this.
+
+<a id="t-14-57"></a>
+## 14:57 · Auditorías, transparencia y propuestas
+
+**[14:57]** Is that your top level policy recommendation that the the AI industry needs to slow down?
+
+**[15:04]** Yeah, I would say yeah, I would say yes. The my top my top level recommendation would be would be to slow down and there are different yeah there are different uh kind of ways to go about this. Um I think like yeah uh I think auditing is important, transparency requirements are important. Um and u yeah I I mean I don't have like very detailed policy proposals in my head. Um but right now it seems like um yeah we we need some kind of prerequisites in place for um yeah for governments to take this seriously.
+
+**[15:43]** like it seems like this issue is maybe becoming kind of polarized in the in the US which which seems really bad because yeah I think this really needs to be kind of a bipartis bipartisan issue like how do we kind of not lose control of AI um yeah we will need to coordinate a slowdown like not necessarily like a complete ban on AI development. I think if we like if we can figure out how to kind of increase AI capabilities in a very slow and controlled manner then I think AI development can proceed you know in a responsible way but I think it would need to like slow down significantly.
+
+**[16:20]** Um and as kind of more advanced models are built of course we yeah we can you know yeah we can we can use these uh we can use these models to kind of test our alignment techniques to develop better alignment techniques but there's always the question of like how much can we trust can we trust these models to assist uh to assist in safety of research. Yeah we can't be confident that like uh you know these this AI assistance is trustworthy.
+
+**[16:49]** So we also kind of need more time to uh to ensure this. So overall, yeah, I just feel like uh you know effort from just kind of speeding up AI needs to be redirected into safety and alignment because yeah, there's a lot a lot more to do there and we need kind of we need more time to do that.
+
+<a id="t-17-09"></a>
+## 17:09 · Actitudes entre colegas e interpretación de los incidentes
+
+**[17:09]** Do you talk about these risks with your colleagues at DeepMind or your colleagues in the AI industry broadly and what's the attitude towards those risks?
+
+**[17:19]** Do other people take them seriously?
+
+**[17:20]** Um, has the attitude changed over time?
+
+**[17:25]** Yeah. Um, so I have been talking about these risks with colleagues in the AI industry and it's been interesting to see kind of how people's perceptions evolve over time. Um, because yeah, when I started in this field, this was 10 years ago. Then like, you know, risks from AGI were like a really kind of fringe and kind of taboo topic. People thought it was really sci-fi and like kind of weird. Um and so like a lot of those early conversations were more about like you know this is where the field is going.
+
+**[17:53]** Agi is possible. It would be a big deal and so on. And now I think like a lot of people more people kind of buy that AGI is possible and maybe you know it might even be here soon. Um but yeah now it seems like there there are these different camps of like people who are getting increasingly concerned about about safety on the one hand and on the other hand like could say the kind of accelerationist faction uh that just kind of you know mostly dismisses the risks or thinks that like these are kind of these things are going to work themselves out.
+
+**[18:19]** We just need to go as fast as possible. Yeah, I think there's a lot of disagreement between, you know, these different uh kind of groups in the AI community um about you know what should be done and how this technology should be handled. Um and I think overall like we do see more and more people get more concerned and like you know uh um well-known machine learning researchers like you know Jeff Hinton and Yoshua Benju and others are kind of like yeah have started kind of taking this more seriously when kind of as as capabilities advance and like as people see that like we could actually get to like u you know potentially really powerful AI and like we don't we don't really know how to handle that as a you know as a technology and like kind of in terms of societal impact.
+
+**[19:10]** I think the familiarity with like the questions of you know why is alignment difficult uh is you know not as high as I as I would like to be. Um, and sometimes like even with kind of clear warning shots like uh you know the hugging face hacking incident. Um, sometimes people dis dismiss this for strange reasons. Like I've you know I sometimes seen people just kind of consider this some kind of marketing trick. Like I don't I don't really know how that works.
+
+**[19:42]** like how's like you know agents committing a felony marketing trick but apparently like this is this is something that people think sometimes um and maybe this is just kind of like a you know a knee-jerk reaction that people have um but uh yeah like I think yeah I would really like people in AI to kind of take these sort of these sort of incidents seriously and think through their implications uh and it's not yeah there are misconceptions like you know people think that like they were told to hack and therefore they hacked and like there's nothing to see here but like you know in fact this is probably not what they were told like they were told to like do a very specific thing and yeah like what the agents ended up doing was way out of scope I think like especially after this kind of like uh concrete incident a lot more people are are getting worried but um I think also they kind of need to channel that in the right direction
+
+<a id="t-20-34"></a>
+## 20:34 · Futuro y familia
+
+**[20:34]** when you think about the future how do you feel uh when I think about the future I feel a lot of uncertainty. Um like it's hard to imagine like what the world will be like in you know in five years time like there could be a lot of kind of transformation due to kind of the effects of AI. Um like I mean for me personally like you know I try to imagine what would the future would be like for my children.
+
+**[21:02]** Currently my my kids are like five years old and two years old like well when they grow up you know I guess first of all like you know will will the world continue to exist but like assuming that it does like you know will they have a job like what will they be doing like what kind of uh what sort of you know what would like a meaningful human existence look like at this point?
+
+**[21:26]** Uh so I think when I when I think about the future I kind of like yeah I I I don't think very far ahead in terms of like I know I don't try very hard to imagine like what what things will be like in like 10 years. Uh mostly you know uh just trying to make sure it goes well but yeah I don't I don't truly like facing this kind of uncertainty. I don't think like this [music] is uh this is great for everybody else either.
+
+<a id="t-22-01"></a>
+## 22:01 · Cierre de Palisade
+
+**[22:01]** My name is Eli Tyre. I work for Palisade Research where our goal is to help the world understand what is going on with AI. If you work for a Frontier AI company or have worked for a Frontier AI company and you want to make one of these videos, please get in touch. We would love to include your perspective.
+
+<!-- TRANSCRIPT END -->
+
+## Nota de edición
+
+No se tradujo, resumió ni corrigió el argumento. Los nombres se normalizaron de forma explícita; los demás posibles errores de subtitulado se conservan hasta poder cotejar el audio. Las afirmaciones siguen atribuidas al entrevistado y no se verificaron en esta edición.
+
+- Nombre normalizado: `Victoria Karovna` → `Victoria Krakovna` (1 aparición/es).
+- Nombre normalizado: `Google Deep Mind` → `Google DeepMind` (1 aparición/es).
+- Nombre normalizado: `Eli Tyer` → `Eli Tyre` (1 aparición/es).
+
+Cada timestamp remite al subtítulo donde empieza el párrafo o sección; puede coincidir con el final de la frase anterior. Las marcas individuales y el texto recibido se conservan en el archivo original.
