@@ -1,6 +1,4 @@
-# Entrevistas de Palisade — índice de trabajo
-
-12 entrevistas proporcionadas por Tomás, con dos versiones en inglés para cada una.
+# Entrevistas de Palisade
 
 - **Índice y timestamps:** secciones temáticas en español para navegar y localizar pasajes. Los títulos son editoriales.
 - **Solo texto:** únicamente el contenido en párrafos, sin encabezados, timestamps, numeración, metadatos ni notas. Esta es la versión para leer y analizar el contenido.
